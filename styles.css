@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'Catamaran-Bold';
+  src: url('/fonts/Catamaran-Bold.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Catamaran-Bold';
+  color: #fbfbfb;
+  font-size: 48px;
+  line-height: 72px;
+  text-align: center;
+  margin: 0px;
+}
+
+.aligner {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contents {
+  width: 100%;
+  position: relative;
+  top: -50px;
+}
+
+.kitty {
+  height: 200px;
+  margin-bottom: 20px;
+  opacity: 0;
+  -webkit-transition: opacity .75s ease-in-out;
+  -moz-transition: opacity .75s ease-in-out;
+  -ms-transition: opacity .75s ease-in-out;
+  -o-transition: opacity .75s ease-in-out;
+  transition: opacity .75s ease-in-out;
+}
+
+.kitty img {
+  width: 200px;
+  height: auto;
+}
+
+.aligner-item {
+  max-width: 77%;
+  margin: 0 auto;
+  opacity: 0;
+  -webkit-transition: opacity .75s ease-in-out;
+  -moz-transition: opacity .75s ease-in-out;
+  -ms-transition: opacity .75s ease-in-out;
+  -o-transition: opacity .75s ease-in-out;
+  transition: opacity .75s ease-in-out;
+}
+
+.load {
+  opacity: 1;
+}
