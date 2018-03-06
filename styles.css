@@ -10,6 +10,7 @@ body {
   line-height: 72px;
   text-align: center;
   margin: 0px;
+  overflow: hidden;
 }
 
 .aligner {
@@ -54,4 +55,9 @@ body {
 
 .load {
   opacity: 1;
+}
+
+.iframe_goodies {
+  width: 95vw;
+  height: 95vh;
 }

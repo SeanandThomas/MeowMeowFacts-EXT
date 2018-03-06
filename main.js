@@ -27,7 +27,11 @@ chrome.storage.sync.get({
   // We are getting the array IDs of cat_facts_seen, if they exist
   var seen_cat_facts = data.seen_cat_facts;
 
-  // console.log(`You've seen ${seen_cat_facts.length} cat facts`);
+  console.log(`You've seen ${seen_cat_facts.length} cat facts`);
+  if (seen_cat_facts.length === 10) {
+    // similar behavior as an HTTP redirect
+    console.log('hello');
+  }
 
   // Grab the JSON file of all the cat facts
   $.getJSON(`cat_facts.json`, function (all_cat_facts) {
