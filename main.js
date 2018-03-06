@@ -19,6 +19,15 @@ var cat_num = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 $(document).ready(function () {
   $(`body`).css(`background-color`, `${background_colors[Math.floor(Math.random() * background_colors.length)]}`);
   $(`.kitty img`).attr(`src`, `/cats/cat${cat_num[Math.floor(Math.random() * cat_num.length)]}.png`);
+  setTimeout(function () {
+    $(`.iframe_goodies`).addClass(`load`);
+    $(`.close`).addClass(`load`);
+  }, 2000);
+
+  $(`.close`).click(function () {
+    $(`.iframe_goodies`).removeClass(`load`);
+    $(`.close`).removeClass(`load`);
+  });
 });
 
 chrome.storage.sync.get({
@@ -53,6 +62,7 @@ chrome.storage.sync.get({
     var new_cat_fact = unseen_cat_facts[Math.floor(Math.random() * unseen_cat_facts.length)];
     $(`#cat_fact`).text(new_cat_fact.fact).addClass(`load`);
     $(`.kitty`).addClass(`load`);
+
 
     seen_cat_facts.push({
       'id': new_cat_fact.id
