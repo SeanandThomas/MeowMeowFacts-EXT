@@ -1,4 +1,5 @@
 var init = [];
+var show_iframes = false;
 
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-114054743-1']);
@@ -19,10 +20,9 @@ var cat_num = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 $(document).ready(function () {
   $(`body`).css(`background-color`, `${background_colors[Math.floor(Math.random() * background_colors.length)]}`);
   $(`.kitty img`).attr(`src`, `/cats/cat${cat_num[Math.floor(Math.random() * cat_num.length)]}.png`);
-  setTimeout(function () {
-    $(`.iframe_goodies`).addClass(`load`);
-    $(`.close`).addClass(`load`);
-  }, 2000);
+
+
+
 
   $(`.close`).click(function () {
     $(`.iframe_goodies`).removeClass(`load`);
@@ -36,10 +36,17 @@ chrome.storage.sync.get({
   // We are getting the array IDs of cat_facts_seen, if they exist
   var seen_cat_facts = data.seen_cat_facts;
 
-  console.log(`You've seen ${seen_cat_facts.length} cat facts`);
-  if (seen_cat_facts.length === 10) {
+  // console.log(`You've seen ${seen_cat_facts.length} cat facts`);
+
+  // Show the contest every 3 cat facts
+  if (seen_cat_facts.length % 3 === 0) {
     // similar behavior as an HTTP redirect
-    console.log('hello');
+    $(`.iframe_goodies`).html(`<iframe src="http://vyper.io/c/3456xxdya" style="width:100%; height:100%;" frameborder="0">
+    </iframe>`);
+    setTimeout(function () {
+      $(`.iframe_goodies`).addClass(`load`);
+      $(`.close`).addClass(`load`);
+    }, 2000);
   }
 
   // Grab the JSON file of all the cat facts
