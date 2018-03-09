@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'Catamaran-Bold';
-  src: url('/fonts/Catamaran-Bold.ttf') format('truetype');
+  font-family: "Catamaran-Bold";
+  src: url("/fonts/Catamaran-Bold.ttf") format("truetype");
 }
 
 body {
-  font-family: 'Catamaran-Bold';
+  font-family: "Catamaran-Bold";
   color: #fbfbfb;
   font-size: 48px;
   line-height: 72px;
@@ -30,8 +30,8 @@ body {
   height: 200px;
   margin-bottom: 20px;
   opacity: 0;
-  -webkit-transition: opacity .75s ease-in-out;
-  transition: opacity .75s ease-in-out;
+  -webkit-transition: opacity 0.75s ease-in-out;
+  transition: opacity 0.75s ease-in-out;
 }
 
 .kitty img {
@@ -43,8 +43,8 @@ body {
   max-width: 77%;
   margin: 0 auto;
   opacity: 0;
-  -webkit-transition: opacity .75s ease-in-out;
-  transition: opacity .75s ease-in-out;
+  -webkit-transition: opacity 0.75s ease-in-out;
+  transition: opacity 0.75s ease-in-out;
 }
 
 .load,
@@ -61,9 +61,9 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 2;
-  box-shadow: 0px 0px 10vw 10vw rgba(62, 62, 62, .7);
-  -webkit-transition: opacity .5s ease-in-out;
-  transition: opacity .5s ease-in-out;
+  box-shadow: 0px 0px 10vw 10vw rgba(62, 62, 62, 0.7);
+  -webkit-transition: opacity 0.5s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
   opacity: 0;
 }
 
@@ -84,21 +84,21 @@ body {
 
 .close:hover::before,
 .close:hover::after {
-  background: #B34A4A;
+  background: #b34a4a;
 }
 
 .close::before,
 .close::after {
-  content: '';
+  content: "";
   position: absolute;
   height: 2px;
   width: 100%;
   top: 50%;
   left: 0;
   margin-top: -1px;
-  background: #E8E8E8;
-  -webkit-transition: all .2s ease-in-out;
-  transition: all .2s ease-in-out;
+  background: #e8e8e8;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
   opacity: 0;
 }
 
@@ -116,4 +116,9 @@ body {
   -ms-transform: rotate(-45deg);
   -o-transform: rotate(-45deg);
   transform: rotate(-45deg);
+}
+
+.built_by {
+  position: fixed;
+  bottom: 0;
 }
