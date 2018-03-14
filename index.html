@@ -9,17 +9,35 @@
 </head>
 
 <body>
-  <span class="close"></span>
-  <div class="iframe_goodies">
-  </div>
+  <!--<span class="close"></span><div class="iframe_goodies"></div>-->
+
   <div class="aligner">
     <div class="contents">
-      <div class="kitty"><img src="cats/cat0.png" /></div>
+      <div class="kitty">
+        <img src="cats/cat0.png" />
+      </div>
       <div class="aligner-item" id="cat_fact"></div>
+
+      <div class="social_share">
+        <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//www.sharelinkgenerator.com/" target="_blank">
+          <img src="/img/facebook@2x.png" />
+        </a>
+        <a href="https://twitter.com/home?status=http%3A//www.sharelinkgenerator.com/" target="_blank">
+          <img src="/img/twitter@2x.png" />
+        </a>
+        <button onclick="copyToClipboard('#copylink')">
+          <p id="copylink" style="display: none;">https://twitter.com/home?status=iCopyItAllDAYYYYSSSSzzzz</p>
+          <img src="/img/link@2x.png" />
+          <p id="copy_clip_text">Copied to clipboard!</p>
+        </button>
+
+      </div>
     </div>
   </div>
   <div class="built_by">
-    <h1>Built by Sean &amp; Thomas</h1>
+    <h2>Built by
+      <a href="http://seanandthomas.com" target="_blank">Sean &amp; Thomas</a>
+    </h2>
   </div>
 
 </body>

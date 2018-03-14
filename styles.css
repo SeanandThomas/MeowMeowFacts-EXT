@@ -3,6 +3,11 @@
   src: url("/fonts/Catamaran-Bold.ttf") format("truetype");
 }
 
+@font-face {
+  font-family: "Catamaran-Medium";
+  src: url("/fonts/Catamaran-Medium.ttf") format("truetype");
+}
+
 body {
   font-family: "Catamaran-Bold";
   color: #fbfbfb;
@@ -118,7 +123,64 @@ body {
   transform: rotate(-45deg);
 }
 
+.social_share a {
+  text-decoration: none;
+}
+
+.social_share img {
+  width: 35px;
+  padding: 0 2px;
+}
+
+.social_share button {
+  position: relative;
+  border: none;
+  padding: 0 2px;
+  background: none;
+  cursor: pointer;
+}
+
+button:focus {
+  outline: 0;
+}
+
+#copy_clip_text {
+  font-family: "Catamaran-Bold";
+  position: absolute;
+  left: -45px;
+  top: 30px;
+  width: 130px;
+  font-size: 13px;
+  color: #f1f1f1;
+  letter-spacing: 0.5px;
+  opacity: 0;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
 .built_by {
   position: fixed;
   bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.built_by h2 {
+  font-family: "Catamaran-Medium";
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 1.7;
+  margin: auto;
+  color: rgba(4, 4, 4, 0.5);
+}
+
+.built_by h2 a {
+  text-decoration: underline;
+  color: rgba(4, 4, 4, 0.5);
+  -webkit-transition: color 0.3s ease-in-out;
+  transition: color 0.3s ease-in-out;
+}
+
+.built_by h2 a:hover {
+  color: rgba(4, 4, 4, 0.3);
 }
