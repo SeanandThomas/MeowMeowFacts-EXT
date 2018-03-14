@@ -36,7 +36,7 @@ $(document).ready(function() {
     $(`#copy_clip_text`).addClass(`load`);
     setTimeout(function() {
       $(`#copy_clip_text`).removeClass(`load`);
-    }, 2000);
+    }, 1200);
   });
 
   /*   $(`.close`).click(function () {
