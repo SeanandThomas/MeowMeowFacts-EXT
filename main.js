@@ -16,15 +16,12 @@ _gaq.push(["_trackPageview"]);
 
 var background_colors = ["#E24223", "#2B2B77", "#D3B298"];
 var cat_num = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+var kitty;
 
 $(document).ready(function() {
   $(`body`).css(
     `background-color`,
     `${background_colors[Math.floor(Math.random() * background_colors.length)]}`
-  );
-  $(`.kitty img`).attr(
-    `src`,
-    `/cats/cat${cat_num[Math.floor(Math.random() * cat_num.length)]}.png`
   );
 
   $(`button`).click(function() {
@@ -85,10 +82,23 @@ chrome.storage.sync.get(
       // Choose a random cat fact from all the unseen_cat_facts
       var new_cat_fact =
         unseen_cat_facts[Math.floor(Math.random() * unseen_cat_facts.length)];
+      if (new_cat_fact.kitty) {
+        kitty = new_cat_fact.kitty;
+      } else {
+        kitty = cat_num[Math.floor(Math.random() * cat_num.length)];
+      }
+
+      $(`.kitty img`).attr(`src`, `/cats/cat${kitty}.png`);
       $(`#cat_fact`)
         .text(new_cat_fact.fact)
         .addClass(`load`);
       $(`.kitty`).addClass(`load`);
+      $(`#facebook_share`).attr(
+        "href",
+        `https://www.facebook.com/sharer/sharer.php?u=http%3A//www.meowmeowfacts.com/cat_fact/${
+          new_cat_fact.id
+        }`
+      );
 
       seen_cat_facts.push({
         id: new_cat_fact.id

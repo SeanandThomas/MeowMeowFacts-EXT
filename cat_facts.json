@@ -1,1401 +1,1323 @@
-[{
-    "id": 0,
-    "fact": "1 in 200 cats suffer from asthma",
-    "character_count": 32
+[
+  {
+    "id": "ebce630e-2808-11e8-a01a-33cff92cc2de",
+    "fact": "1 in 200 cats suffer from asthma"
   },
   {
-    "id": 1,
-    "fact": "75% of cats that go missing in the U.S. are returned safely",
-    "character_count": 59
+    "id": "ebce6f84-2808-11e8-a01a-878afc1dde66",
+    "fact": "75% of cats that go missing in the U.S. are returned safely"
   },
   {
-    "id": 2,
-    "fact": "A cat can jump 7 times as high as it is tall",
-    "character_count": 44
+    "id": "ebce73f8-2808-11e8-a01a-47e8eaec6a1f",
+    "fact": "A cat can jump 7 times as high as it is tall"
   },
   {
-    "id": 3,
-    "fact": "Cats can spend five or more hours a day grooming themselves",
-    "character_count": 59
+    "id": "ebce797a-2808-11e8-a01a-dbea22583c96",
+    "fact": "Cats can spend five or more hours a day grooming themselves"
   },
   {
-    "id": 4,
-    "fact": "A cat cannot see directly under its nose",
-    "character_count": 40
+    "id": "ebce7e16-2808-11e8-a01a-d7520932fc44",
+    "fact": "A cat cannot see directly under its nose"
   },
   {
-    "id": 5,
-    "fact": "A cat has a total of 24 whiskers, 4 rows of whiskers on each side. The upper two rows can move independently of the bottom two rows",
-    "character_count": 131
+    "id": "ebce823a-2808-11e8-a01a-03f45098537d",
+    "fact":
+      "A cat has a total of 24 whiskers, 4 rows of whiskers on each side. The upper two rows can move independently of the bottom two rows"
   },
   {
-    "id": 6,
-    "fact": "A cat has been mayor of Talkeetna, Alaska, for the past 20 years. His name is Stubbs",
-    "character_count": 84
+    "id": "ebce8640-2808-11e8-a01a-07b57521e9e0",
+    "fact":
+      "A cat has been mayor of Talkeetna, Alaska, for the past 20 years. His name is Stubbs"
   },
   {
-    "id": 7,
-    "fact": "A cat has detected their human's breast cancer",
-    "character_count": 46
+    "id": "ebce8a46-2808-11e8-a01a-43e4dfe41b40",
+    "fact": "A cat has detected their human's breast cancer"
   },
   {
-    "id": 8,
-    "fact": "A cat has more bones than a human; humans have 206, but the cat has 230 (some sources list 245 bones, and state that bones may fuse together as the cat ages)",
-    "character_count": 157
+    "id": "ebce8e24-2808-11e8-a01a-2f9e454d765d",
+    "fact":
+      "A cat has more bones than a human; humans have 206, but the cat has 230 (some sources list 245 bones, and state that bones may fuse together as the cat ages)"
   },
   {
-    "id": 9,
-    "fact": "A cat has two vocal chords, yet can make over 100 sounds",
-    "character_count": 56
+    "id": "ebce9220-2808-11e8-a01a-937700354d1a",
+    "fact": "A cat has two vocal chords, yet can make over 100 sounds"
   },
   {
-    "id": 10,
-    "fact": "A cat nicknamed \u201cUnsinkable Sam\u201d survived the sinking of three separate ships during WWII",
-    "character_count": 89
+    "id": "ebce9612-2808-11e8-a01a-8ffdee12d4f5",
+    "fact":
+      "A cat nicknamed “Unsinkable Sam” survived the sinking of three separate ships during WWII"
   },
   {
-    "id": 11,
-    "fact": "A cat ran for mayor of Mexico City in 2013",
-    "character_count": 42
+    "id": "ebce9a0e-2808-11e8-a01a-6b08989f44c0",
+    "fact": "A cat ran for mayor of Mexico City in 2013"
   },
   {
-    "id": 12,
-    "fact": "A cat sees about 6 times better than a human at night because they have a layer of extra reflecting cells which absorb light",
-    "character_count": 124
+    "id": "ebce9dec-2808-11e8-a01a-bb74db700718",
+    "fact":
+      "A cat sees about 6 times better than a human at night because they have a layer of extra reflecting cells which absorb light"
   },
   {
-    "id": 13,
-    "fact": "The whiskers of a cat are capable of registering very small changes in air pressure",
-    "character_count": 83
+    "id": "ebcea21a-2808-11e8-a01a-ebed11321cc4",
+    "fact":
+      "The whiskers of a cat are capable of registering very small changes in air pressure"
   },
   {
-    "id": 14,
-    "fact": "A cat will spend nearly 30% of their life grooming themselves",
-    "character_count": 61
+    "id": "ebcea648-2808-11e8-a01a-bbd6b21086ae",
+    "fact": "A cat will spend nearly 30% of their life grooming themselves"
   },
   {
-    "id": 15,
-    "fact": "A cat will tremble or shiver when it is in extreme pain",
-    "character_count": 55
+    "id": "ebceaa30-2808-11e8-a01a-df1ea5860297",
+    "fact": "A cat will tremble or shiver when it is in extreme pain"
   },
   {
-    "id": 16,
-    "fact": "A cat's jaw has only up and down motion; it does not have any lateral, side to side motion, like dogs and humans",
-    "character_count": 112
+    "id": "ebceae4a-2808-11e8-a01a-8b59d6dc6395",
+    "fact":
+      "A cat's jaw has only up and down motion; it does not have any lateral, side to side motion, like dogs and humans"
   },
   {
-    "id": 17,
-    "fact": "A cat's meow is usually not directed at another cat, but at a human. To communicate with other cats, they will usually hiss, purr, and spit",
-    "character_count": 139
+    "id": "ebceb21e-2808-11e8-a01a-bb7540cff636",
+    "fact":
+      "A cat's meow is usually not directed at another cat, but at a human. To communicate with other cats, they will usually hiss, purr, and spit"
   },
   {
-    "id": 18,
-    "fact": "A cat's carbon footprint is similar to that of a VW Bug, whereas a dog’s is more like a Hummer",
-    "character_count": 94
+    "id": "ebceb624-2808-11e8-a01a-2b765b605b12",
+    "fact":
+      "A cat's carbon footprint is similar to that of a VW Bug, whereas a dog’s is more like a Hummer"
   },
   {
-    "id": 19,
-    "fact": "A cat's cerebral cortex (the part of the brain in charge of cognitive information processing) has 300 million neurons, compared with a dog’s 160 million",
-    "character_count": 152
+    "id": "ebceba02-2808-11e8-a01a-6f87c2ef3071",
+    "fact":
+      "A cat's cerebral cortex (the part of the brain in charge of cognitive information processing) has 300 million neurons, compared with a dog’s 160 million"
   },
   {
-    "id": 20,
-    "fact": "A cat's nose is ridged with a unique pattern, just like a human fingerprint",
-    "character_count": 75
+    "id": "ebcebdf4-2808-11e8-a01a-0b9edb66d2fb",
+    "fact":
+      "A cat's nose is ridged with a unique pattern, just like a human fingerprint"
   },
   {
-    "id": 21,
-    "fact": "A cat's sense of smell is approximately 14 times greater than that of a human",
-    "character_count": 77
+    "id": "ebcec1c8-2808-11e8-a01a-4fd61dbf8643",
+    "fact":
+      "A cat's sense of smell is approximately 14 times greater than that of a human"
   },
   {
-    "id": 22,
-    "fact": "A domestic cat can sprint at about 31 miles per hour",
-    "character_count": 52
+    "id": "ebcec5c4-2808-11e8-a01a-8b70554e70e7",
+    "fact": "A domestic cat can sprint at about 31 miles per hour"
   },
   {
-    "id": 23,
-    "fact": "A female Amur leopard gives birth to between one to four cubs in each litter",
-    "character_count": 76
+    "id": "ebcec998-2808-11e8-a01a-6b4b9de7b130",
+    "fact":
+      "A female Amur leopard gives birth to between one to four cubs in each litter"
   },
   {
-    "id": 24,
-    "fact": "A female cat will be pregnant for approximately 9 weeks (or between 62 and 65 days) from conception to delivery",
-    "character_count": 111
+    "id": "ebcece02-2808-11e8-a01a-a367aeb49290",
+    "fact":
+      "A female cat will be pregnant for approximately 9 weeks (or between 62 and 65 days) from conception to delivery"
   },
   {
-    "id": 25,
-    "fact": "A form of AIDS exists in cats",
-    "character_count": 29
+    "id": "ebced1ea-2808-11e8-a01a-6f5db6d65804",
+    "fact": "A form of AIDS exists in cats"
   },
   {
-    "id": 26,
-    "fact": "A group of cats is called a clowder",
-    "character_count": 35
+    "id": "ebced5f0-2808-11e8-a01a-db2036a85852",
+    "fact": "A group of cats is called a clowder"
   },
   {
-    "id": 27,
-    "fact": "A group of kittens is called a kindle",
-    "character_count": 37
+    "id": "ebceda00-2808-11e8-a01a-cbadc5ff185e",
+    "fact": "A group of kittens is called a kindle"
   },
   {
-    "id": 28,
-    "fact": "A happy cat holds their tail high and steady",
-    "character_count": 44
+    "id": "ebceddf2-2808-11e8-a01a-fb6c6f69b38e",
+    "fact": "A happy cat holds their tail high and steady"
   },
   {
-    "id": 29,
-    "fact": "A healthy cat has a temperature between 100.4 and 102.2 degrees Farenheit, or 38 and 39 degrees Celcius",
-    "character_count": 103
+    "id": "ebcee1c6-2808-11e8-a01a-ff107ba7e63e",
+    "fact":
+      "A healthy cat has a temperature between 100.4 and 102.2 degrees Farenheit, or 38 and 39 degrees Celcius"
   },
   {
-    "id": 30,
-    "fact": "A normal house cat (not a chubby one) is faster than Usain Bolt",
-    "character_count": 63
+    "id": "ebcee5cc-2808-11e8-a01a-6b8757bba719",
+    "fact": "A normal house cat (not a chubby one) is faster than Usain Bolt"
   },
   {
-    "id": 31,
-    "fact": "A kitten will typically weigh about 3 ounces at birth.  The typical male housecat will weigh between 7 and 9 pounds, slightly less for female housecats",
-    "character_count": 151
+    "id": "ebcee9b4-2808-11e8-a01a-e799bd8a6b37",
+    "fact":
+      "A kitten will typically weigh about 3 ounces at birth. The typical male housecat will weigh between 7 and 9 pounds, slightly less for female housecats"
   },
   {
-    "id": 32,
-    "fact": "A thought to be mutated kitten with green fur was discovered in Denmark in 1995. Scientists later found out it was from high copper levels in the water supply",
-    "character_count": 158
+    "id": "ebceedce-2808-11e8-a01a-5b8282c8748b",
+    "fact":
+      "A thought to be mutated kitten with green fur was discovered in Denmark in 1995. Scientists later found out it was from high copper levels in the water supply"
   },
   {
-    "id": 33,
-    "fact": "A male cat is called a \u201cTom\u201d and a female cat is called a \u201cQueen\u201d or a \u201cMolly\u201d",
-    "character_count": 78
+    "id": "ebcef526-2808-11e8-a01a-8b5de80b6bd6",
+    "fact":
+      "A male cat is called a “Tom” and a female cat is called a “Queen” or a “Molly”"
   },
   {
-    "id": 34,
-    "fact": "A physicist made his cat the co-author of his scientific paper to avoid replacing \u201cwe\u201d with \u201cI\u201d throughout his paper",
-    "character_count": 116
+    "id": "ebcef940-2808-11e8-a01a-ffb895e995a7",
+    "fact":
+      "A physicist made his cat the co-author of his scientific paper to avoid replacing “we” with “I” throughout his paper"
   },
   {
-    "id": 35,
-    "fact": "A female cat can begin mating when they are between 5 and 9 months old",
-    "character_count": 70
+    "id": "ebcefdf0-2808-11e8-a01a-3f78b4862b85",
+    "fact":
+      "A female cat can begin mating when they are between 5 and 9 months old"
   },
   {
-    "id": 36,
-    "fact": "A sexually-active feral tom-cat \u201cowns\u201d an area of about three square miles and \u201csprays\u201d to mark his territory with strong smelling urine",
-    "character_count": 136
+    "id": "ebcf023c-2808-11e8-a01a-b36d829d276f",
+    "fact":
+      "A sexually-active feral tom-cat “owns” an area of about three square miles and “sprays” to mark his territory with strong smelling urine"
   },
   {
-    "id": 37,
-    "fact": "A tiger's stripes are like fingerprints, no two tigers have the same pattern",
-    "character_count": 76
+    "id": "ebcf0638-2808-11e8-a01a-3f293f9e122e",
+    "fact":
+      "A tiger's stripes are like fingerprints, no two tigers have the same pattern"
   },
   {
-    "id": 38,
-    "fact": "Abraham Lincoln kept four cats in the White House",
-    "character_count": 49
+    "id": "ebcf0a16-2808-11e8-a01a-2b11d52885bd",
+    "fact": "Abraham Lincoln kept four cats in the White House"
   },
   {
-    "id": 39,
-    "fact": "According to the Association for Pet Obesity Prevention (APOP), about 50 million of American cats are overweight",
-    "character_count": 112
+    "id": "ebcf0e44-2808-11e8-a01a-f3b3d48b9b6e",
+    "fact":
+      "According to the Association for Pet Obesity Prevention (APOP), about 50 million of American cats are overweight"
   },
   {
-    "id": 40,
-    "fact": "All cats have three sets of long hairs that are sensitive to pressure - whiskers, eyebrows,and the hairs between their paw pads",
-    "character_count": 127
+    "id": "ebcf1222-2808-11e8-a01a-2739ae18c5d0",
+    "fact":
+      "All cats have three sets of long hairs that are sensitive to pressure - whiskers, eyebrows,and the hairs between their paw pads"
   },
   {
-    "id": 41,
-    "fact": "All cats need taurine in their diet to avoid blindness. Cats must also have fat in their diet as they are unable to produce it on their own",
-    "character_count": 139
+    "id": "ebcf1740-2808-11e8-a01a-93834707dda5",
+    "fact":
+      "All cats need taurine in their diet to avoid blindness. Cats must also have fat in their diet as they are unable to produce it on their own"
   },
   {
-    "id": 42,
-    "fact": "*All cats are good natural hunters (*we know which ones aren't)",
-    "character_count": 63
+    "id": "ebcf1b64-2808-11e8-a01a-9383ec1a790f",
+    "fact": "*All cats are good natural hunters (*we know which ones aren't)"
   },
   {
-    "id": 43,
-    "fact": "Almost 10% of a cat's bones are in its tail, and the tail is used to maintain balance",
-    "character_count": 85
+    "id": "ebcf1f6a-2808-11e8-a01a-ff6807c0d16d",
+    "fact":
+      "Almost 10% of a cat's bones are in its tail, and the tail is used to maintain balance"
   },
   {
-    "id": 44,
-    "fact": "Although it is known to be the \u201ctailless cat\u201d, the Manx can be born with a stub or a short tail",
-    "character_count": 95
+    "id": "ebcf2348-2808-11e8-a01a-1fd46937dee5",
+    "fact":
+      "Although it is known to be the “tailless cat”, the Manx can be born with a stub or a short tail"
   },
   {
-    "id": 45,
-    "fact": "Among many other diseases, cats can suffer from anorexia, senility, feline AIDS, and acne.",
-    "character_count": 90
+    "id": "ebcf273a-2808-11e8-a01a-af57e6ff8753",
+    "fact":
+      "Among many other diseases, cats can suffer from anorexia, senility, feline AIDS, and acne."
   },
   {
-    "id": 46,
-    "fact": "An adult lion's roar can be heard up to five miles (eight kilometers) away",
-    "character_count": 74
+    "id": "ebcf2b22-2808-11e8-a01a-677e272ebd2e",
+    "fact":
+      "An adult lion's roar can be heard up to five miles (eight kilometers) away"
   },
   {
-    "id": 47,
-    "fact": "Ancient Egyptian family members shaved their eyebrows in mourning when the family cat died",
-    "character_count": 90
+    "id": "ebcf2f14-2808-11e8-a01a-138dde45f99b",
+    "fact":
+      "Ancient Egyptian family members shaved their eyebrows in mourning when the family cat died"
   },
   {
-    "id": 48,
-    "fact": "Around the world, cats take a break to nap - a catnap - 425 million times a day",
-    "character_count": 79
+    "id": "ebcf3310-2808-11e8-a01a-f7d1420392f9",
+    "fact":
+      "Around the world, cats take a break to nap - a catnap - 425 million times a day"
   },
   {
-    "id": 49,
-    "fact": "Baking chocolate is the most dangerous chocolate to your cat",
-    "character_count": 60
+    "id": "ebcf370c-2808-11e8-a01a-e764f4df983b",
+    "fact": "Baking chocolate is the most dangerous chocolate to your cat"
   },
   {
-    "id": 50,
-    "fact": "Black cats are bad luck in the United States, but they are good luck in the United Kingdom and Australia",
-    "character_count": 104
+    "id": "ebcf3b12-2808-11e8-a01a-33508fbd0e4a",
+    "fact":
+      "Black cats are bad luck in the United States, but they are good luck in the United Kingdom and Australia"
   },
   {
-    "id": 51,
-    "fact": "Blue-eyed, pure white cats are frequently deaf",
-    "character_count": 46
+    "id": "ebcf3f0e-2808-11e8-a01a-231a2f8a50e4",
+    "fact": "Blue-eyed, pure white cats are frequently deaf"
   },
   {
-    "id": 52,
-    "fact": "Bobtails are known to have notably short tails - about half or a third the size of the average house cat",
-    "character_count": 104
+    "id": "ebcf4314-2808-11e8-a01a-d7ea749768fb",
+    "fact":
+      "Bobtails are known to have notably short tails - about half or a third the size of the average house cat"
   },
   {
-    "id": 53,
-    "fact": "Both humans and cats have identical regions in the brain responsible for emotion",
-    "character_count": 80
+    "id": "ebcf4724-2808-11e8-a01a-139869dcb5b6",
+    "fact":
+      "Both humans and cats have identical regions in the brain responsible for emotion"
   },
   {
-    "id": 54,
-    "fact": "British cat owners spend roughly 550 million pounds ($675 million dollars) yearly on cat food",
-    "character_count": 93
+    "id": "ebcf4b20-2808-11e8-a01a-376ce7085868",
+    "fact":
+      "British cat owners spend roughly 550 million pounds ($675 million dollars) yearly on cat food"
   },
   {
-    "id": 55,
-    "fact": "Cat bites are more likely to become infected than dog bites, so be nice to your cat!",
-    "character_count": 84
+    "id": "ebcf4efe-2808-11e8-a01a-8328f7651466",
+    "fact":
+      "Cat bites are more likely to become infected than dog bites, so be nice to your cat!"
   },
   {
-    "id": 56,
-    "fact": "Cat families usually play best in even numbers. Cats and kittens should be acquired in pairs whenever possible",
-    "character_count": 110
+    "id": "ebcf52f0-2808-11e8-a01a-df97dc2a173c",
+    "fact":
+      "Cat families usually play best in even numbers. Cats and kittens should be acquired in pairs whenever possible"
   },
   {
-    "id": 57,
-    "fact": "Cat owners are 17% more likely to have a graduate degree",
-    "character_count": 56
+    "id": "ebcf56c4-2808-11e8-a01a-eff29d5521c5",
+    "fact": "Cat owners are 17% more likely to have a graduate degree"
   },
   {
-    "id": 58,
-    "fact": "Cat owners who are male tend to be luckier in love, as they are perceived as more sensitive",
-    "character_count": 91
+    "id": "ebcf5ac0-2808-11e8-a01a-e7e731609a08",
+    "fact":
+      "Cat owners who are male tend to be luckier in love, as they are perceived as more sensitive"
   },
   {
-    "id": 59,
-    "fact": "Cat people are 25% likely to pick George Harrison as their favorite Beatle",
-    "character_count": 74
+    "id": "ebcf5e9e-2808-11e8-a01a-9bf8554d71b3",
+    "fact":
+      "Cat people are 25% likely to pick George Harrison as their favorite Beatle"
   },
   {
-    "id": 60,
-    "fact": "Cat people are also 11% more likely to be introverted. But cat people are more open to new experiences than typical “dog people”",
-    "character_count": 128
+    "id": "ebcf692a-2808-11e8-a01a-ef141a4101d0",
+    "fact":
+      "Cat people are also 11% more likely to be introverted. But cat people are more open to new experiences than typical “dog people”"
   },
   {
-    "id": 61,
-    "fact": "Cat's back claws aren't as sharp as the claws on their front paws",
-    "character_count": 65
+    "id": "ebcf6d12-2808-11e8-a01a-4329fd2933ce",
+    "fact": "Cat's back claws aren't as sharp as the claws on their front paws"
   },
   {
-    "id": 62,
-    "fact": "Cat's urine will glow under a black light. Go try this at home",
-    "character_count": 62
+    "id": "ebcf710e-2808-11e8-a01a-3f1458f81f29",
+    "fact": "Cat's urine will glow under a black light. Go try this at home"
   },
   {
-    "id": 63,
-    "fact": "Cats actually have dreams, just like us. They start dreaming when they reach a week old",
-    "character_count": 87
+    "id": "ebcf7528-2808-11e8-a01a-0b891b0550d9",
+    "fact":
+      "Cats actually have dreams, just like us. They start dreaming when they reach a week old"
   },
   {
-    "id": 64,
-    "fact": "Cats are believed to be responsible for the extinction of several species of animals",
-    "character_count": 84
+    "id": "ebcf7b90-2808-11e8-a01a-3384550993e7",
+    "fact":
+      "Cats are believed to be responsible for the extinction of several species of animals"
   },
   {
-    "id": 65,
-    "fact": "Cats are more likely to survive a higher fall because they have more time to prepare their body and decelerate",
-    "character_count": 110
+    "id": "ebcf7f96-2808-11e8-a01a-9f581acf4c7c",
+    "fact":
+      "Cats are more likely to survive a higher fall because they have more time to prepare their body and decelerate"
   },
   {
-    "id": 66,
-    "fact": "Cats are now Britain's favourite pet: there are 7.7 million cats as opposed to 6.6 million dogs",
-    "character_count": 95
+    "id": "ebcf83ba-2808-11e8-a01a-8ffe035097c6",
+    "fact":
+      "Cats are now Britain's favourite pet: there are 7.7 million cats as opposed to 6.6 million dogs"
   },
   {
-    "id": 67,
-    "fact": "Cats are really cool",
-    "character_count": 20
+    "id": "ebcf87c0-2808-11e8-a01a-e7ad659778e6",
+    "fact": "Cats are really cool"
   },
   {
-    "id": 68,
-    "fact": "Cats are subject to \u201cwhisker stress\u201d where they may not like pressure on their whiskers while they eat or drink",
-    "character_count": 111
+    "id": "ebcf8b9e-2808-11e8-a01a-97c50324ff51",
+    "fact":
+      "Cats are subject to “whisker stress” where they may not like pressure on their whiskers while they eat or drink"
   },
   {
-    "id": 69,
-    "fact": "Cats are such picky eaters because they are naturally driven to eat foods with a preferred ratio of protein to fat: 1 to 0.4",
-    "character_count": 124
+    "id": "ebcf8f9a-2808-11e8-a01a-d75b8682f5af",
+    "fact":
+      "Cats are such picky eaters because they are naturally driven to eat foods with a preferred ratio of protein to fat: 1 to 0.4"
   },
   {
-    "id": 70,
-    "fact": "Cats are susceptible to more than 250 hereditary disorders, and many of them are similar to diseases that humans get",
-    "character_count": 116
+    "id": "ebcf936e-2808-11e8-a01a-2fa86bd63574",
+    "fact":
+      "Cats are susceptible to more than 250 hereditary disorders, and many of them are similar to diseases that humans get"
   },
   {
-    "id": 71,
-    "fact": "Cats can move their ears separately",
-    "character_count": 35
+    "id": "ebcf9774-2808-11e8-a01a-eb16d8ce0d1a",
+    "fact": "Cats can move their ears separately"
   },
   {
-    "id": 72,
-    "fact": "Cats can be taught to walk on a leash, but a lot of time and patience is required to teach them. It is easier for younger cats to learn this cool trick",
-    "character_count": 151
+    "id": "ebcf9b52-2808-11e8-a01a-1f6906927243",
+    "fact":
+      "Cats can be taught to walk on a leash, but a lot of time and patience is required to teach them. It is easier for younger cats to learn this cool trick"
   },
   {
-    "id": 73,
-    "fact": "Cats can bite",
-    "character_count": 13
+    "id": "ebcf9f6c-2808-11e8-a01a-f788db01cbc2",
+    "fact": "Cats can bite"
   },
   {
-    "id": 74,
-    "fact": "Cats can change their meow to manipulate a human. For example, they often imitate a human baby when they need food",
-    "character_count": 114
+    "id": "ebcfa34a-2808-11e8-a01a-83b92870be12",
+    "fact":
+      "Cats can change their meow to manipulate a human. For example, they often imitate a human baby when they need food"
   },
   {
-    "id": 75,
-    "fact": "Cats can drink salt water and survive. They have crazy kidneys that filter out the salt from the water to re-hydrate themselves",
-    "character_count": 127
+    "id": "ebcfa76e-2808-11e8-a01a-ef9f4c63e68a",
+    "fact":
+      "Cats can drink salt water and survive. They have crazy kidneys that filter out the salt from the water to re-hydrate themselves"
   },
   {
-    "id": 76,
-    "fact": "Cats can get tapeworms from eating fleas. These worms live inside the cat forever, or until they are removed with medication",
-    "character_count": 124
+    "id": "ebcfab74-2808-11e8-a01a-173abc935eef",
+    "fact":
+      "Cats can get tapeworms from eating fleas. These worms live inside the cat forever, or until they are removed with medication"
   },
   {
-    "id": 77,
-    "fact": "Cats can judge within 3 inches the precise location of a sound being made 1 yard away",
-    "character_count": 85
+    "id": "ebcfb01a-2808-11e8-a01a-ffadae88f2e1",
+    "fact":
+      "Cats can judge within 3 inches the precise location of a sound being made 1 yard away"
   },
   {
-    "id": 78,
-    "fact": "Cats can move their ears 180 degrees",
-    "character_count": 36
+    "id": "ebcfb498-2808-11e8-a01a-6f30b6fa4f26",
+    "fact": "Cats can move their ears 180 degrees"
   },
   {
-    "id": 79,
-    "fact": "Cats can pick up on your tone of voice, so sweet-talking to your cat has more of an impact than you think",
-    "character_count": 105
+    "id": "ebcfb880-2808-11e8-a01a-8728b925ae5d",
+    "fact":
+      "Cats can pick up on your tone of voice, so sweet-talking to your cat has more of an impact than you think"
   },
   {
-    "id": 80,
-    "fact": "Cats can swallow and digest their food without chewing it",
-    "character_count": 57
+    "id": "ebcfbc72-2808-11e8-a01a-bb8406fbe7d1",
+    "fact": "Cats can swallow and digest their food without chewing it"
   },
   {
-    "id": 81,
-    "fact": "Cats can't taste sweetness",
-    "character_count": 26
+    "id": "ebcfc046-2808-11e8-a01a-8b2954ec9128",
+    "fact": "Cats can't taste sweetness"
   },
   {
-    "id": 82,
-    "fact": "Cats come back to full alertness from a sleepy state faster than any other creature",
-    "character_count": 83
+    "id": "ebcfc442-2808-11e8-a01a-1358f4dfa267",
+    "fact":
+      "Cats come back to full alertness from a sleepy state faster than any other creature"
   },
   {
-    "id": 83,
-    "fact": "Cats do not think that they are little people. They think that we are big cats. This influences their behavior in many ways",
-    "character_count": 123
+    "id": "ebcfc82a-2808-11e8-a01a-d36605b23327",
+    "fact":
+      "Cats do not think that they are little people. They think that we are big cats. This influences their behavior in many ways"
   },
   {
-    "id": 84,
-    "fact": "Cats eat grass to aid their digestion and to help them get rid of any fur in their stomachs",
-    "character_count": 91
+    "id": "ebcfcc6c-2808-11e8-a01a-cbba03f6c8bb",
+    "fact":
+      "Cats eat grass to aid their digestion and to help them get rid of any fur in their stomachs"
   },
   {
-    "id": 85,
-    "fact": "Cats have 1,000 times more data storage than an iPad",
-    "character_count": 52
+    "id": "ebcfd040-2808-11e8-a01a-475620e22703",
+    "fact": "Cats have 1,000 times more data storage than an iPad"
   },
   {
-    "id": 86,
-    "fact": "Cats have 30 vertebrae (humans have 33 vertebrae during early development; 26 after the sacral and coccygeal regions fuse)",
-    "character_count": 122
+    "id": "ebcfd432-2808-11e8-a01a-e31baaca38e9",
+    "fact":
+      "Cats have 30 vertebrae (humans have 33 vertebrae during early development; 26 after the sacral and coccygeal regions fuse)"
   },
   {
-    "id": 87,
-    "fact": "Cats have 32 muscles that control the outer ear while humans have only 6",
-    "character_count": 72
+    "id": "ebcfd81a-2808-11e8-a01a-a33e7b4647fb",
+    "fact":
+      "Cats have 32 muscles that control the outer ear while humans have only 6"
   },
   {
-    "id": 88,
-    "fact": "Cats have a longer-term memory than dogs, especially when they learn by actually doing rather than simply seeing",
-    "character_count": 112
+    "id": "ebcfdc0c-2808-11e8-a01a-e7495732fce6",
+    "fact":
+      "Cats have a longer-term memory than dogs, especially when they learn by actually doing rather than simply seeing"
   },
   {
-    "id": 89,
-    "fact": "Cats have a lower social IQ than dogs, but cats can solve more difficult cognitive problems when they feel like it",
-    "character_count": 114
+    "id": "ebcfdfea-2808-11e8-a01a-37a289e8e6c1",
+    "fact":
+      "Cats have a lower social IQ than dogs, but cats can solve more difficult cognitive problems when they feel like it"
   },
   {
-    "id": 90,
-    "fact": "Cats have a strong aversion to anything citrus",
-    "character_count": 46
+    "id": "ebcfe3dc-2808-11e8-a01a-0f971e5abcab",
+    "fact": "Cats have a strong aversion to anything citrus"
   },
   {
-    "id": 91,
-    "fact": "Cats have individual preferences for scratching surfaces and angles. Some are horizontal scratchers while others exercise their claws vertically",
-    "character_count": 144
+    "id": "ebcfe80a-2808-11e8-a01a-03976bc98ef9",
+    "fact":
+      "Cats have individual preferences for scratching surfaces and angles. Some are horizontal scratchers while others exercise their claws vertically"
   },
   {
-    "id": 92,
-    "fact": "Cats have inferior daytime sight, but during the night they need seven times less light than humans to see",
-    "character_count": 106
+    "id": "ebcfec24-2808-11e8-a01a-d7de5372d57c",
+    "fact":
+      "Cats have inferior daytime sight, but during the night they need seven times less light than humans to see"
   },
   {
-    "id": 93,
-    "fact": "Cats have the cognitive ability to sense a human's feelings and overall mood",
-    "character_count": 76
+    "id": "ebcff020-2808-11e8-a01a-cba2edf20a94",
+    "fact":
+      "Cats have the cognitive ability to sense a human's feelings and overall mood"
   },
   {
-    "id": 94,
-    "fact": "Cats have the largest eyes of any mammal",
-    "character_count": 40
+    "id": "ebcff3fe-2808-11e8-a01a-9bfc9cb0903f",
+    "fact": "Cats have the largest eyes of any mammal"
   },
   {
-    "id": 95,
-    "fact": "Cats have the skillset that makes them able to learn how to use a toilet",
-    "character_count": 72
+    "id": "ebcff8d6-2808-11e8-a01a-ef8d5d86027c",
+    "fact":
+      "Cats have the skillset that makes them able to learn how to use a toilet"
   },
   {
-    "id": 96,
-    "fact": "Cats have three eyelids",
-    "character_count": 23
+    "id": "ebcffcbe-2808-11e8-a01a-b3315c450d75",
+    "fact": "Cats have three eyelids"
   },
   {
-    "id": 97,
-    "fact": "Cats knead with their paws when they are happy",
-    "character_count": 46
+    "id": "ebd00114-2808-11e8-a01a-bb5123de964d",
+    "fact": "Cats knead with their paws when they are happy"
   },
   {
-    "id": 98,
-    "fact": "Cats lap liquid from the underside of their tongue, not from the top",
-    "character_count": 68
+    "id": "ebd004fc-2808-11e8-a01a-ab7996123842",
+    "fact":
+      "Cats lap liquid from the underside of their tongue, not from the top"
   },
   {
-    "id": 99,
-    "fact": "Cats lick themselves to get your scent off. Don't be stinky",
-    "character_count": 59
+    "id": "ebd00916-2808-11e8-a01a-abcbae1aa373",
+    "fact": "Cats lick themselves to get your scent off. Don't be stinky"
   },
   {
-    "id": 100,
-    "fact": "Cats lived with soldiers in trenches during World War I, where they killed and usually ate mice",
-    "character_count": 95
+    "id": "ebd00cf4-2808-11e8-a01a-2f005339b4f9",
+    "fact":
+      "Cats lived with soldiers in trenches during World War I, where they killed and usually ate mice"
   },
   {
-    "id": 101,
-    "fact": "Cats make more than 100 different sounds whereas dogs make only around 10",
-    "character_count": 73
+    "id": "ebd010fa-2808-11e8-a01a-8b3e575118ef",
+    "fact":
+      "Cats make more than 100 different sounds whereas dogs make only around 10"
   },
   {
-    "id": 102,
-    "fact": "Cats may paw water to create ripples, which makes the water more interesting and fun",
-    "character_count": 84
+    "id": "ebd014ec-2808-11e8-a01a-8303ca4ae4af",
+    "fact":
+      "Cats may paw water to create ripples, which makes the water more interesting and fun"
   },
   {
-    "id": 103,
-    "fact": "Cats only sweat through their foot pads",
-    "character_count": 39
+    "id": "ebd018e8-2808-11e8-a01a-b770e6e853cf",
+    "fact": "Cats only sweat through their foot pads"
   },
   {
-    "id": 104,
-    "fact": "Cats place themselves in an umbrella position, much like a skydiver, to slow down a fall",
-    "character_count": 88
+    "id": "ebd01d02-2808-11e8-a01a-1355ac72285e",
+    "fact":
+      "Cats place themselves in an umbrella position, much like a skydiver, to slow down a fall"
   },
   {
-    "id": 105,
-    "fact": "Cats prefer their food at room temperature—not too hot, not too cold, but just right",
-    "character_count": 84
+    "id": "ebd020f4-2808-11e8-a01a-cf25fbe9ade9",
+    "fact":
+      "Cats prefer their food at room temperature—not too hot, not too cold, but just right"
   },
   {
-    "id": 106,
-    "fact": "Cats respond most readily to names that end in an \u201cee\u201d sound",
-    "character_count": 60
+    "id": "ebd024d2-2808-11e8-a01a-c72b9496c19a",
+    "fact": "Cats respond most readily to names that end in an “ee” sound"
   },
   {
-    "id": 107,
-    "fact": "Cats share 95.6% of their DNA with tigers",
-    "character_count": 41
+    "id": "ebd028d8-2808-11e8-a01a-078983ff178e",
+    "fact": "Cats share 95.6% of their DNA with tigers"
   },
   {
-    "id": 108,
-    "fact": "Cats sleep 70% of their lives",
-    "character_count": 29
+    "id": "ebd02cac-2808-11e8-a01a-1bdc496611ba",
+    "fact": "Cats sleep 70% of their lives"
   },
   {
-    "id": 109,
-    "fact": "Cats use their whiskers to detect if they can fit through a space",
-    "character_count": 65
+    "id": "ebd03094-2808-11e8-a01a-dbe54cd47523",
+    "fact": "Cats use their whiskers to detect if they can fit through a space"
   },
   {
-    "id": 110,
-    "fact": "Cats walk on their toes",
-    "character_count": 23
+    "id": "ebd0349a-2808-11e8-a01a-cbcdda7bf7c7",
+    "fact": "Cats walk on their toes"
   },
   {
-    "id": 111,
-    "fact": "Cats who eat too much tuna can become addicted, which can actually cause a Vitamin E deficiency",
-    "character_count": 95
+    "id": "ebd0388c-2808-11e8-a01a-f33beaefce9e",
+    "fact":
+      "Cats who eat too much tuna can become addicted, which can actually cause a Vitamin E deficiency"
   },
   {
-    "id": 112,
-    "fact": "Cats who fall five stories have a 90 percent survival rate",
-    "character_count": 58
+    "id": "ebd03c7e-2808-11e8-a01a-c30be68ecbcd",
+    "fact": "Cats who fall five stories have a 90 percent survival rate"
   },
   {
-    "id": 113,
-    "fact": "Cats with long, lean bodies are more likely to be outgoing, and more protective and vocal than those with a stocky build",
-    "character_count": 120
+    "id": "ebd04084-2808-11e8-a01a-ab3993301590",
+    "fact":
+      "Cats with long, lean bodies are more likely to be outgoing, and more protective and vocal than those with a stocky build"
   },
   {
-    "id": 114,
-    "fact": "Cats would rather starve themselves than eat something they don't like",
-    "character_count": 70
+    "id": "ebd04476-2808-11e8-a01a-b3c2ea1965b1",
+    "fact":
+      "Cats would rather starve themselves than eat something they don't like"
   },
   {
-    "id": 115,
-    "fact": "Cats, especially older cats, may get cancer. Many times this disease can be treated successfully",
-    "character_count": 96
+    "id": "ebd0485e-2808-11e8-a01a-afa746425b13",
+    "fact":
+      "Cats, especially older cats, may get cancer. Many times this disease can be treated successfully"
   },
   {
-    "id": 116,
-    "fact": "Cats, just like people, are subject to asthma. Dust, smoke, and other forms of air pullution in your cat's environment can be sources of irritation",
-    "character_count": 147
+    "id": "ebd04c50-2808-11e8-a01a-e7db41440024",
+    "fact":
+      "Cats, just like people, are subject to asthma. Dust, smoke, and other forms of air pullution in your cat's environment can be sources of irritation"
   },
   {
-    "id": 117,
-    "fact": "Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz",
-    "character_count": 74
+    "id": "ebd051be-2808-11e8-a01a-ebaae6c7de39",
+    "fact":
+      "Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz"
   },
   {
-    "id": 118,
-    "fact": "Cats' self-cleaning can help them cool off, stimulate circulation, comfort them, and keep them clean of odors that might attract predators",
-    "character_count": 138
+    "id": "ebd055ec-2808-11e8-a01a-e7702a4fd304",
+    "fact":
+      "Cats' self-cleaning can help them cool off, stimulate circulation, comfort them, and keep them clean of odors that might attract predators"
   },
   {
-    "id": 119,
-    "fact": "Caution during Christmas; the Poinsettia flower may be festive, but they’re poisonous to cats",
-    "character_count": 93
+    "id": "ebd059de-2808-11e8-a01a-2f380b83d877",
+    "fact":
+      "Caution during Christmas; the Poinsettia flower may be festive, but they’re poisonous to cats"
   },
   {
-    "id": 120,
-    "fact": "You can get Toxoplasmosis from cleaning the litter box of an infected cat. If pregnant, a baby can be born with cerebral palsy, seizures, or mental retardation",
-    "character_count": 159
+    "id": "ebd05fb0-2808-11e8-a01a-1b24b1a3e6cf",
+    "fact":
+      "You can get Toxoplasmosis from cleaning the litter box of an infected cat. If pregnant, a baby can be born with cerebral palsy, seizures, or mental retardation"
   },
   {
-    "id": 121,
-    "fact": "Collectively, kittens yawn about 200 million time per hour all around the world",
-    "character_count": 79
+    "id": "ebd06398-2808-11e8-a01a-67a920674f64",
+    "fact":
+      "Collectively, kittens yawn about 200 million time per hour all around the world"
   },
   {
-    "id": 122,
-    "fact": "Contrary to popular belief, the cat is a social animal. A pet cat will respond and answer to speech, and seems to (usually) enjoy human companionship",
-    "character_count": 149
+    "id": "ebd0679e-2808-11e8-a01a-ff8c1b1dc391",
+    "fact":
+      "Contrary to popular belief, the cat is a social animal. A pet cat will respond and answer to speech, and seems to (usually) enjoy human companionship"
   },
   {
-    "id": 123,
-    "fact": "Declawing a cat is the same as cutting a human's fingers off at the knuckle. There are several alternatives to a complete declawing!!",
-    "character_count": 133
+    "id": "ebd06b90-2808-11e8-a01a-9b5b89918c60",
+    "fact":
+      "Declawing a cat is the same as cutting a human's fingers off at the knuckle. There are several alternatives to a complete declawing!!"
   },
   {
-    "id": 124,
-    "fact": "Declawing cats is legal in most U.S. states but banned in at least 22 countries including Germany, Finland, Switzerland, Australia, New Zealand and Japan.",
-    "character_count": 154
+    "id": "ebd06f78-2808-11e8-a01a-87fdf14e53ef",
+    "fact":
+      "Declawing cats is legal in most U.S. states but banned in at least 22 countries including Germany, Finland, Switzerland, Australia, New Zealand and Japan."
   },
   {
-    "id": 125,
-    "fact": "Despite appearing like a wild cat, the Ocicat does not have an ounce of wild blood.",
-    "character_count": 83
+    "id": "ebd0736a-2808-11e8-a01a-af43cd377b3a",
+    "fact":
+      "Despite appearing like a wild cat, the Ocicat does not have an ounce of wild blood."
   },
   {
-    "id": 126,
-    "fact": "Disneyland owns about 200 cats. Every night, the cats are released in the park to hunt down all the little Mickeys and Minnies for cat snacks",
-    "character_count": 141
+    "id": "ebd07842-2808-11e8-a01a-63a2c13a6c7a",
+    "fact":
+      "Disneyland owns about 200 cats. Every night, the cats are released in the park to hunt down all the little Mickeys and Minnies for cat snacks"
   },
   {
-    "id": 127,
-    "fact": "Domestic cats purr both when inhaling and when exhaling",
-    "character_count": 55
+    "id": "ebd07c5c-2808-11e8-a01a-5332078f62e7",
+    "fact": "Domestic cats purr both when inhaling and when exhaling"
   },
   {
-    "id": 128,
-    "fact": "Each side of a cat's face has about 12 whiskers",
-    "character_count": 47
+    "id": "ebd08044-2808-11e8-a01a-4bf44432d5e8",
+    "fact": "Each side of a cat's face has about 12 whiskers"
   },
   {
-    "id": 129,
-    "fact": "Edward Lear, author of \u201cThe Owl and the Pussycat\u201d, built a clone of his previous residence so that his much-loved tabby, Foss, would immediately feel at home",
-    "character_count": 157
+    "id": "ebd08436-2808-11e8-a01a-830de202fb0e",
+    "fact":
+      "Edward Lear, author of “The Owl and the Pussycat”, built a clone of his previous residence so that his much-loved tabby, Foss, would immediately feel at home"
   },
   {
-    "id": 130,
-    "fact": "Egyptian's had elaborate memorials that included mummifying the cat and either burying it in a family tomb or pet cemetery",
-    "character_count": 122
+    "id": "ebd08850-2808-11e8-a01a-e79e30264f5e",
+    "fact":
+      "Egyptian's had elaborate memorials that included mummifying the cat and either burying it in a family tomb or pet cemetery"
   },
   {
-    "id": 131,
-    "fact": "80% percent of cats in the U.S. are spayed or neutered",
-    "character_count": 54
+    "id": "ebd08c60-2808-11e8-a01a-0be867b1c79c",
+    "fact": "80% percent of cats in the U.S. are spayed or neutered"
   },
   {
-    "id": 132,
-    "fact": "Even healthy cats can exhibit symptoms of illness, including vomiting or a decreased appetite, if there is a change in their routines",
-    "character_count": 133
+    "id": "ebd09066-2808-11e8-a01a-73525801a75c",
+    "fact":
+      "Even healthy cats can exhibit symptoms of illness, including vomiting or a decreased appetite, if there is a change in their routines"
   },
   {
-    "id": 133,
-    "fact": "1 in 4 pregnant cats carries kittens fathered by more than one mate. A fertile female may mate with several tom-cats, which fertilize different eggs each time",
-    "character_count": 158
+    "id": "ebd09444-2808-11e8-a01a-8740c1089920",
+    "fact":
+      "1 in 4 pregnant cats carries kittens fathered by more than one mate. A fertile female may mate with several tom-cats, which fertilize different eggs each time"
   },
   {
-    "id": 134,
-    "fact": "Every single domesticated cat could be traced back to one of five African wild cats from 8000 BC",
-    "character_count": 96
+    "id": "ebd09854-2808-11e8-a01a-8766f8e563fd",
+    "fact":
+      "Every single domesticated cat could be traced back to one of five African wild cats from 8000 BC"
   },
   {
-    "id": 135,
-    "fact": "Evidence suggests domesticated cats have been around since 3600 BC, 2,000 years before Egypt's pharaohs",
-    "character_count": 103
+    "id": "ebd09c5a-2808-11e8-a01a-ff6ba9175f75",
+    "fact":
+      "Evidence suggests domesticated cats have been around since 3600 BC, 2,000 years before Egypt's pharaohs"
   },
   {
-    "id": 136,
-    "fact": "Female cats are \u201cpolyestrous\u201d, which means they may have many heat periods over the course of a year",
-    "character_count": 100
+    "id": "ebd0a04c-2808-11e8-a01a-dfcfac0cd861",
+    "fact":
+      "Female cats are “polyestrous”, which means they may have many heat periods over the course of a year"
   },
   {
-    "id": 137,
-    "fact": "A heat period lasts about 4 to 7 days if a female cat is bred; if she is not, the heat period lasts longer and recurs at regular intervals",
-    "character_count": 138
+    "id": "ebd0a434-2808-11e8-a01a-87ac269101f7",
+    "fact":
+      "A heat period lasts about 4 to 7 days if a female cat is bred; if she is not, the heat period lasts longer and recurs at regular intervals"
   },
   {
-    "id": 138,
-    "fact": "Female cats are typically right-pawed while male cats are typically left-pawed",
-    "character_count": 78
+    "id": "ebd0a83a-2808-11e8-a01a-c373cd759b94",
+    "fact":
+      "Female cats are typically right-pawed while male cats are typically left-pawed"
   },
   {
-    "id": 139,
-    "fact": "Florence Nightingale, the founder of modern nursing, owned more than 60 cats in her lifetime",
-    "character_count": 92
+    "id": "ebd0ac22-2808-11e8-a01a-6ba101e8cbdb",
+    "fact":
+      "Florence Nightingale, the founder of modern nursing, owned more than 60 cats in her lifetime"
   },
   {
-    "id": 140,
-    "fact": "Humans greet each other by shaking hands; cats greet one another by touching their noses together",
-    "character_count": 97
+    "id": "ebd0b01e-2808-11e8-a01a-8f4de63c73eb",
+    "fact":
+      "Humans greet each other by shaking hands; cats greet one another by touching their noses together"
   },
   {
-    "id": 141,
-    "fact": "If a cat is frightened, put your hand over its eyes and forehead, or let them bury their head in your armpit to help calm them",
-    "character_count": 126
+    "id": "ebd0b406-2808-11e8-a01a-73fd8c191deb",
+    "fact":
+      "If a cat is frightened, put your hand over its eyes and forehead, or let them bury their head in your armpit to help calm them"
   },
   {
-    "id": 142,
-    "fact": "If a cat is frightened, the hair stands up fairly evenly all over the body",
-    "character_count": 74
+    "id": "ebd0b80c-2808-11e8-a01a-afa4ac40ed79",
+    "fact":
+      "If a cat is frightened, the hair stands up fairly evenly all over the body"
   },
   {
-    "id": 143,
-    "fact": "When the cat is threatened or is ready to attack, the hair stands up only in a narrow band along the spine and tail",
-    "character_count": 115
+    "id": "ebd0bbf4-2808-11e8-a01a-3b06d6415032",
+    "fact":
+      "When the cat is threatened or is ready to attack, the hair stands up only in a narrow band along the spine and tail"
   },
   {
-    "id": 144,
-    "fact": "If your cat snores or rolls over on his back to expose its belly, it means that it trusts you",
-    "character_count": 93
+    "id": "ebd0c022-2808-11e8-a01a-fb38457dab7d",
+    "fact":
+      "If your cat snores or rolls over on his back to expose its belly, it means that it trusts you"
   },
   {
-    "id": 145,
-    "fact": "If your cat's eyes are closed, it's not necessarily because it is tired. A sign of closed eyes means your cat is happy or pleased",
-    "character_count": 129
+    "id": "ebd0c41e-2808-11e8-a01a-9b1084b7e2cb",
+    "fact":
+      "If your cat's eyes are closed, it's not necessarily because it is tired. A sign of closed eyes means your cat is happy or pleased"
   },
   {
-    "id": 146,
-    "fact": "In 2009, an accused Florida man said his cat downloaded child porn, not him",
-    "character_count": 75
+    "id": "ebd0c806-2808-11e8-a01a-4fdfe6f7ce7c",
+    "fact":
+      "In 2009, an accused Florida man said his cat downloaded child porn, not him"
   },
   {
-    "id": 147,
-    "fact": "In an average year, cat owners in the United States spend over $2 billion on cat food",
-    "character_count": 85
+    "id": "ebd0cc02-2808-11e8-a01a-bf251faf0a90",
+    "fact":
+      "In an average year, cat owners in the United States spend over $2 billion on cat food"
   },
   {
-    "id": 148,
-    "fact": "In ancient Egypt, killing a cat was a crime punishable by death",
-    "character_count": 63
+    "id": "ebd0cfea-2808-11e8-a01a-2fbb5dfd4b27",
+    "fact": "In ancient Egypt, killing a cat was a crime punishable by death"
   },
   {
-    "id": 149,
-    "fact": "In homes with more than one cat, it is best to have cats of the opposite sex. They tend to be better housemates",
-    "character_count": 111
+    "id": "ebd0d3dc-2808-11e8-a01a-2b4d1260b6d5",
+    "fact":
+      "In homes with more than one cat, it is best to have cats of the opposite sex. They tend to be better housemates"
   },
   {
-    "id": 150,
-    "fact": "In just 7 years, one un-spayed female cat and one un-neutered male cat and their offspring can result in 420,000 kittens",
-    "character_count": 120
+    "id": "ebd0d7ce-2808-11e8-a01a-2348bea4ba75",
+    "fact":
+      "In just 7 years, one un-spayed female cat and one un-neutered male cat and their offspring can result in 420,000 kittens"
   },
   {
-    "id": 151,
-    "fact": "In Korea and Japan, there is a Cat Cafe where you can go to drink coffee and hang out with cats for hours",
-    "character_count": 105
+    "id": "ebd0dbf2-2808-11e8-a01a-af0355acbeb2",
+    "fact":
+      "In Korea and Japan, there is a Cat Cafe where you can go to drink coffee and hang out with cats for hours"
   },
   {
-    "id": 152,
-    "fact": "In multi-pet households, cats are able to get along well with dogs if they're introduced when the cat is under 6 months old and the dog is under one year old",
-    "character_count": 157
+    "id": "ebd0e002-2808-11e8-a01a-5b1b920a28f5",
+    "fact":
+      "In multi-pet households, cats are able to get along well with dogs if they're introduced when the cat is under 6 months old and the dog is under one year old"
   },
   {
-    "id": 153,
-    "fact": "In one litter of kittens, there could be multiple \u201cfather\u201d cats",
-    "character_count": 63
+    "id": "ebd0e3f4-2808-11e8-a01a-438a944a7ef1",
+    "fact": "In one litter of kittens, there could be multiple “father” cats"
   },
   {
-    "id": 154,
-    "fact": "In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters)",
-    "character_count": 64
+    "id": "ebd0e7e6-2808-11e8-a01a-47b9933181f1",
+    "fact": "In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters)"
   },
   {
-    "id": 155,
-    "fact": "In the 1960s, the CIA turned a cat into a spy by implanting a microphone and transmitter in its head. Sadly, the cat got hit by a taxi on its first mission",
-    "character_count": 155
+    "id": "ebd0ed5e-2808-11e8-a01a-ef03ea31b955",
+    "fact":
+      "In the 1960s, the CIA turned a cat into a spy by implanting a microphone and transmitter in its head. Sadly, the cat got hit by a taxi on its first mission"
   },
   {
-    "id": 156,
-    "fact": "In the wild, lions live for an average of 12 years and up to 16 years. They live up to 25 years in captivity",
-    "character_count": 108
+    "id": "ebd0f25e-2808-11e8-a01a-d73c9b206ffc",
+    "fact":
+      "In the wild, lions live for an average of 12 years and up to 16 years. They live up to 25 years in captivity"
   },
   {
-    "id": 157,
-    "fact": "In tigers and house cats, the middle of the tongue is covered in backward-pointing spines, used for breaking off and gripping meat",
-    "character_count": 130
+    "id": "ebd0f68c-2808-11e8-a01a-8367ab5cab16",
+    "fact":
+      "In tigers and house cats, the middle of the tongue is covered in backward-pointing spines, used for breaking off and gripping meat"
   },
   {
-    "id": 158,
-    "fact": "Isaac Newton invented the cat flap after his own cat, Spithead, kept opening the door and spoiling his light experiments",
-    "character_count": 120
+    "id": "ebd0fa9c-2808-11e8-a01a-730611e67556",
+    "fact":
+      "Isaac Newton invented the cat flap after his own cat, Spithead, kept opening the door and spoiling his light experiments"
   },
   {
-    "id": 159,
-    "fact": "It is estimated that cats can make over 60 different sounds",
-    "character_count": 59
+    "id": "ebd0fe7a-2808-11e8-a01a-536c4e5301c3",
+    "fact": "It is estimated that cats can make over 60 different sounds"
   },
   {
-    "id": 160,
-    "fact": "It may take up to 2 weeks for a kitten to be able to hear well. Their eyes usually open between 7 and 10 days, but sometimes it happens in as little as 2 days",
-    "character_count": 158
+    "id": "ebd10276-2808-11e8-a01a-db4776ae0f10",
+    "fact":
+      "It may take up to 2 weeks for a kitten to be able to hear well. Their eyes usually open between 7 and 10 days, but sometimes it happens in as little as 2 days"
   },
   {
-    "id": 161,
-    "fact": "Julius Ceasar, Henri II, Charles XI, and Napoleon were all afraid of cats",
-    "character_count": 73
+    "id": "ebd1065e-2808-11e8-a01a-6bd85aa1fca4",
+    "fact":
+      "Julius Ceasar, Henri II, Charles XI, and Napoleon were all afraid of cats"
   },
   {
-    "id": 162,
-    "fact": "Kittens who are taken along on short, trouble-free car trips to town, tend to make good passengers when they get older",
-    "character_count": 118
+    "id": "ebd10a6e-2808-11e8-a01a-df08b5a72902",
+    "fact":
+      "Kittens who are taken along on short, trouble-free car trips to town, tend to make good passengers when they get older"
   },
   {
-    "id": 163,
-    "fact": "Thanks to the help of their eyes and special balance organs in their inner ear, cats can straighten themselves in the air and land upright on the ground",
-    "character_count": 153
+    "id": "ebd10e56-2808-11e8-a01a-f315e603f67f",
+    "fact":
+      "Thanks to the help of their eyes and special balance organs in their inner ear, cats can straighten themselves in the air and land upright on the ground"
   },
   {
-    "id": 164,
-    "fact": "Lions are the only cats that live in groups, called prides. Every female within the pride is usually related",
-    "character_count": 108
+    "id": "ebd11252-2808-11e8-a01a-4f2b0a0dbbd6",
+    "fact":
+      "Lions are the only cats that live in groups, called prides. Every female within the pride is usually related"
   },
   {
-    "id": 165,
-    "fact": "Maine Coons are the most massive breed of house cats. They can weigh up to around 24 pounds",
-    "character_count": 91
+    "id": "ebd11644-2808-11e8-a01a-039bc49401af",
+    "fact":
+      "Maine Coons are the most massive breed of house cats. They can weigh up to around 24 pounds"
   },
   {
-    "id": 166,
-    "fact": "Many cats cannot properly digest cow's milk. Milk and dairy products may give some cats diarrhea",
-    "character_count": 95
+    "id": "ebd11a40-2808-11e8-a01a-8b93d38db293",
+    "fact":
+      "Many cats cannot properly digest cow's milk. Milk and dairy products may give some cats diarrhea"
   },
   {
-    "id": 167,
-    "fact": "Miacis, the primitive ancestor of cats, was a small, tree-living creature of the late Eocene period, some 45 to 50 million years ago",
-    "character_count": 132
+    "id": "ebd11e3c-2808-11e8-a01a-9b6521ec5a23",
+    "fact":
+      "Miacis, the primitive ancestor of cats, was a small, tree-living creature of the late Eocene period, some 45 to 50 million years ago"
   },
   {
-    "id": 168,
-    "fact": "More than 86,000 people are injured by tripping over their cats and dogs every year in the USA",
-    "character_count": 94
+    "id": "ebd12242-2808-11e8-a01a-5743128b9593",
+    "fact":
+      "More than 86,000 people are injured by tripping over their cats and dogs every year in the USA"
   },
   {
-    "id": 169,
-    "fact": "Most cat litters contain four to six kittens",
-    "character_count": 44
+    "id": "ebd12652-2808-11e8-a01a-8b8b07e91a41",
+    "fact": "Most cat litters contain four to six kittens"
   },
   {
-    "id": 170,
-    "fact": "Most cats don't have eyelashes",
-    "character_count": 30
+    "id": "ebd12a76-2808-11e8-a01a-876038736633",
+    "fact": "Most cats don't have eyelashes"
   },
   {
-    "id": 171,
-    "fact": "Most cats don't like water because their coats do not insulate them well enough",
-    "character_count": 79
+    "id": "ebd13016-2808-11e8-a01a-0f37bc17de62",
+    "fact":
+      "Most cats don't like water because their coats do not insulate them well enough"
   },
   {
-    "id": 172,
-    "fact": "Most cats killed on the road are un-neutered toms, as they are more likely to roam further afield and cross busy roads",
-    "character_count": 118
+    "id": "ebd133fe-2808-11e8-a01a-4f08fab95b83",
+    "fact":
+      "Most cats killed on the road are un-neutered toms, as they are more likely to roam further afield and cross busy roads"
   },
   {
-    "id": 173,
-    "fact": "Most cats will eat 7 to 20 small meals a day",
-    "character_count": 44
+    "id": "ebd1380e-2808-11e8-a01a-3bd0c1b15f3b",
+    "fact": "Most cats will eat 7 to 20 small meals a day"
   },
   {
-    "id": 174,
-    "fact": "Most kittens are born with blue eyes, which then turn color with age",
-    "character_count": 68
+    "id": "ebd13c14-2808-11e8-a01a-17a2098563cc",
+    "fact":
+      "Most kittens are born with blue eyes, which then turn color with age"
   },
   {
-    "id": 175,
-    "fact": "Neutering a male cat will almost always stop him from spraying, fighting with other males over females, likely lengthen his life, and improve its quality",
-    "character_count": 153
+    "id": "ebd14010-2808-11e8-a01a-eb018d071418",
+    "fact":
+      "Neutering a male cat will almost always stop him from spraying, fighting with other males over females, likely lengthen his life, and improve its quality"
   },
   {
-    "id": 176,
-    "fact": "Never give your cat aspirin unless specifically prescribed by your veterinarian; it can be fatal. Never ever give Tylenol to a cat",
-    "character_count": 130
+    "id": "ebd143f8-2808-11e8-a01a-771fc8f371a5",
+    "fact":
+      "Never give your cat aspirin unless specifically prescribed by your veterinarian; it can be fatal. Never ever give Tylenol to a cat"
   },
   {
-    "id": 177,
-    "fact": "Keep anti-freeze away from all animals, such as cats. It is sweet and enticing, but deadly poison.",
-    "character_count": 98
+    "id": "ebd147fe-2808-11e8-a01a-974127d7b98c",
+    "fact":
+      "Keep anti-freeze away from all animals, such as cats. It is sweet and enticing, but deadly poison."
   },
   {
-    "id": 178,
-    "fact": "Of all the species of cats, the domestic cat is the only species able to hold its tail vertically while walking",
-    "character_count": 111
+    "id": "ebd14be6-2808-11e8-a01a-9b903ae15e17",
+    "fact":
+      "Of all the species of cats, the domestic cat is the only species able to hold its tail vertically while walking"
   },
   {
-    "id": 179,
-    "fact": "All species of wild cats hold their tail horizontally or tucked between their legs while walking, unlike house cats",
-    "character_count": 115
+    "id": "ebd14fd8-2808-11e8-a01a-fb6657aede11",
+    "fact":
+      "All species of wild cats hold their tail horizontally or tucked between their legs while walking, unlike house cats"
   },
   {
-    "id": 180,
-    "fact": "On average, a cat will sleep for up to 16 hours a day",
-    "character_count": 53
+    "id": "ebd153b6-2808-11e8-a01a-4b7170731d7d",
+    "fact": "On average, a cat will sleep for up to 16 hours a day"
   },
   {
-    "id": 181,
-    "fact": "On September 6, 1950, a 4 month old kitten belonging to Josephine Aufdenblatten followed a group of climbers to the top of the 14,691 ft Matterhorn in the Alps",
-    "character_count": 159
+    "id": "ebd157b2-2808-11e8-a01a-2fe60da9e123",
+    "fact":
+      "On September 6, 1950, a 4 month old kitten belonging to Josephine Aufdenblatten followed a group of climbers to the top of the 14,691 ft Matterhorn in the Alps"
   },
   {
-    "id": 182,
-    "fact": "One legend claims that cats were created when a lion on Noah’s Ark sneezed and two kittens came out",
-    "character_count": 99
+    "id": "ebd15bae-2808-11e8-a01a-57503bad13a3",
+    "fact":
+      "One legend claims that cats were created when a lion on Noah’s Ark sneezed and two kittens came out"
   },
   {
-    "id": 183,
-    "fact": "One study found neutered male cats live 62% longer than unneutered ones",
-    "character_count": 71
+    "id": "ebd15fb4-2808-11e8-a01a-1b0ae5910ed8",
+    "fact":
+      "One study found neutered male cats live 62% longer than unneutered ones"
   },
   {
-    "id": 184,
-    "fact": "One un-neutered female cat can, in five years, be responsible for over 20,000 descendants",
-    "character_count": 89
+    "id": "ebd163e2-2808-11e8-a01a-c365160a0489",
+    "fact":
+      "One un-neutered female cat can, in five years, be responsible for over 20,000 descendants"
   },
   {
-    "id": 185,
-    "fact": "Female cats can have their first litter as young as six months and can have up to three litters each year with five or six kittens in each litter",
-    "character_count": 145
+    "id": "ebd168ce-2808-11e8-a01a-636033d5ae80",
+    "fact":
+      "Female cats can have their first litter as young as six months and can have up to three litters each year with five or six kittens in each litter"
   },
   {
-    "id": 186,
-    "fact": "Only 11.5% of people consider themselves \u201ccat people\u201d",
-    "character_count": 53
+    "id": "ebd16cca-2808-11e8-a01a-8b930bcb06f4",
+    "fact": "Only 11.5% of people consider themselves “cat people”"
   },
   {
-    "id": 187,
-    "fact": "Only 24% of cats who enter animal shelters are adopted",
-    "character_count": 54
+    "id": "ebd170b2-2808-11e8-a01a-77b33b095e31",
+    "fact": "Only 24% of cats who enter animal shelters are adopted"
   },
   {
-    "id": 188,
-    "fact": "Original kitty litter was made out of sand but it was replaced by more absorbent clay in 1948",
-    "character_count": 93
+    "id": "ebd174ae-2808-11e8-a01a-77a4d2529c7c",
+    "fact":
+      "Original kitty litter was made out of sand but it was replaced by more absorbent clay in 1948"
   },
   {
-    "id": 189,
-    "fact": "Owning a cat can reduce the risk of stroke and heart attack by 33%",
-    "character_count": 66
+    "id": "ebd178a0-2808-11e8-a01a-cb98ccc25bfb",
+    "fact": "Owning a cat can reduce the risk of stroke and heart attack by 33%"
   },
   {
-    "id": 190,
-    "fact": "Phoenician cargo ships are thought to have brought the first domesticated cats to Europe in about 900 BC",
-    "character_count": 104
+    "id": "ebd17cc4-2808-11e8-a01a-7ff071fe5001",
+    "fact":
+      "Phoenician cargo ships are thought to have brought the first domesticated cats to Europe in about 900 BC"
   },
   {
-    "id": 191,
-    "fact": "Polydactyl cats are also referred to as “Hemingway cats” because the author was so fond of them",
-    "character_count": 95
+    "id": "ebd180a2-2808-11e8-a01a-3333f422c2d6",
+    "fact":
+      "Polydactyl cats are also referred to as “Hemingway cats” because the author was so fond of them"
   },
   {
-    "id": 192,
-    "fact": "Purring does not always indicate that a cat is happy and healthy, some cats will purr loudly when they are terrified or in pain.",
-    "character_count": 128
+    "id": "ebd184bc-2808-11e8-a01a-dbe4ee046b73",
+    "fact":
+      "Purring does not always indicate that a cat is happy and healthy, some cats will purr loudly when they are terrified or in pain."
   },
   {
-    "id": 193,
-    "fact": "Ragdoll cats live up to their name; they will literally go limp, with relaxed muscles, when lifted by a human",
-    "character_count": 109
+    "id": "ebd18a20-2808-11e8-a01a-7f47a1446229",
+    "fact":
+      "Ragdoll cats live up to their name; they will literally go limp, with relaxed muscles, when lifted by a human"
   },
   {
-    "id": 194,
-    "fact": "Research has shown that domestic cats never forgive. They fail to show signs of reconciliation like other animals do",
-    "character_count": 116
+    "id": "ebd18e1c-2808-11e8-a01a-5bd87ec2ef16",
+    "fact":
+      "Research has shown that domestic cats never forgive. They fail to show signs of reconciliation like other animals do"
   },
   {
-    "id": 195,
-    "fact": "Scientists have created glow-in-the-dark cats by inserting the jellyfish protein that codes for bioluminescence into their genome",
-    "character_count": 129
+    "id": "ebd19218-2808-11e8-a01a-3f3cf0a7fe8a",
+    "fact":
+      "Scientists have created glow-in-the-dark cats by inserting the jellyfish protein that codes for bioluminescence into their genome"
   },
   {
-    "id": 196,
-    "fact": "Senior cats start to experience something like human dementia or Alzheimer’s when they reach an old age, usually around 8 years",
-    "character_count": 127
+    "id": "ebd19600-2808-11e8-a01a-9f18bef6349c",
+    "fact":
+      "Senior cats start to experience something like human dementia or Alzheimer’s when they reach an old age, usually around 8 years"
   },
   {
-    "id": 197,
-    "fact": "Siamese kittens are born white because of the heat inside the mother's uterus before birth. This heat keeps the kittens' hair from darkening on the points",
-    "character_count": 154
+    "id": "ebd19a4c-2808-11e8-a01a-df6c9f9e11e8",
+    "fact":
+      "Siamese kittens are born white because of the heat inside the mother's uterus before birth. This heat keeps the kittens' hair from darkening on the points"
   },
   {
-    "id": 198,
-    "fact": "Some cats have been documented to have a longevity of 34 years",
-    "character_count": 62
+    "id": "ebd19e48-2808-11e8-a01a-5bb84f854726",
+    "fact": "Some cats have been documented to have a longevity of 34 years"
   },
   {
-    "id": 199,
-    "fact": "Some cats like mice",
-    "character_count": 19
+    "id": "ebd1a23a-2808-11e8-a01a-93af367852b8",
+    "fact": "Some cats like mice"
   },
   {
-    "id": 200,
-    "fact": "Some cats may prefer licking their paws to drinking out of a water bowl if they don't like the shape of the water bowl",
-    "character_count": 118
+    "id": "ebd1a622-2808-11e8-a01a-978ab621da23",
+    "fact":
+      "Some cats may prefer licking their paws to drinking out of a water bowl if they don't like the shape of the water bowl"
   },
   {
-    "id": 201,
-    "fact": "Some common houseplants poisonous to cats include: English Ivy, iris, mistletoe, philodendron, and yew",
-    "character_count": 102
+    "id": "ebd1aa50-2808-11e8-a01a-7f7e81ea043a",
+    "fact":
+      "Some common houseplants poisonous to cats include: English Ivy, iris, mistletoe, philodendron, and yew"
   },
   {
-    "id": 202,
-    "fact": "Some notable people who disliked cats: Napoleon Bonaparte, Dwight D. Eisenhower, Hitler",
-    "character_count": 87
+    "id": "ebd1ae38-2808-11e8-a01a-47c0c4aceeb2",
+    "fact":
+      "Some notable people who disliked cats: Napoleon Bonaparte, Dwight D. Eisenhower, Hitler"
   },
   {
-    "id": 203,
-    "fact": "Sometimes called the Canadian Hairless, the Sphynx breed has been around since 1966",
-    "character_count": 83
+    "id": "ebd1b25c-2808-11e8-a01a-b35dbfa606cd",
+    "fact":
+      "Sometimes called the Canadian Hairless, the Sphynx breed has been around since 1966"
   },
   {
-    "id": 204,
-    "fact": "Spaying a female before her first or second heat will greatly reduce the threat of mammary cancer and uterine disease",
-    "character_count": 117
+    "id": "ebd1b630-2808-11e8-a01a-b39d029ed991",
+    "fact":
+      "Spaying a female before her first or second heat will greatly reduce the threat of mammary cancer and uterine disease"
   },
   {
-    "id": 205,
-    "fact": "A female cat does not need to have at least 1 litter to be healthy",
-    "character_count": 66
+    "id": "ebd1ba36-2808-11e8-a01a-6b86170eeedc",
+    "fact": "A female cat does not need to have at least 1 litter to be healthy"
   },
   {
-    "id": 206,
-    "fact": "A cat named \u201cDusty\u201d gave birth to 420 documented kittens in her lifetime",
-    "character_count": 72
+    "id": "ebd1be32-2808-11e8-a01a-ff312749f368",
+    "fact":
+      "A cat named “Dusty” gave birth to 420 documented kittens in her lifetime"
   },
   {
-    "id": 207,
-    "fact": "A cat named \u201cKitty\u201d gave birth to 2 kittens at the age of 30, having given birth to a documented 218 kittens in her lifetime",
-    "character_count": 124
+    "id": "ebd1c210-2808-11e8-a01a-c3d8a56232c8",
+    "fact":
+      "A cat named “Kitty” gave birth to 2 kittens at the age of 30, having given birth to a documented 218 kittens in her lifetime"
   },
   {
-    "id": 208,
-    "fact": "The allergen in cats is often related to their scent glands, in which case, allergic people should tolerate spayed female cats the best",
-    "character_count": 135
+    "id": "ebd1c616-2808-11e8-a01a-ebd6fd9f1a29",
+    "fact":
+      "The allergen in cats is often related to their scent glands, in which case, allergic people should tolerate spayed female cats the best"
   },
   {
-    "id": 209,
-    "fact": "Cats have scent glands on their faces and at the base of their tails. Entire male cats generate the most scent",
-    "character_count": 110
+    "id": "ebd1c9f4-2808-11e8-a01a-5f740cb3ae24",
+    "fact":
+      "Cats have scent glands on their faces and at the base of their tails. Entire male cats generate the most scent"
   },
   {
-    "id": 210,
-    "fact": "Tests done by the Musuem of Natural History conclude that while a dog's memory lasts about 5 minutes, a cat's recall can last as long as 16 hours",
-    "character_count": 145
+    "id": "ebd1ce2c-2808-11e8-a01a-23ec51606b17",
+    "fact":
+      "Tests done by the Musuem of Natural History conclude that while a dog's memory lasts about 5 minutes, a cat's recall can last as long as 16 hours"
   },
   {
-    "id": 211,
-    "fact": "The ancestor of all domestic cats is the African Wild Cat, which still exists today",
-    "character_count": 83
+    "id": "ebd1d214-2808-11e8-a01a-af6e0b91b5d6",
+    "fact":
+      "The ancestor of all domestic cats is the African Wild Cat, which still exists today"
   },
   {
-    "id": 212,
-    "fact": "The ancient Egyptians were the first civilization to realize the cat's potential as a vermin hunter, and tamed cats to protect their corn supplies",
-    "character_count": 146
+    "id": "ebd1d638-2808-11e8-a01a-df3fae776d80",
+    "fact":
+      "The ancient Egyptians were the first civilization to realize the cat's potential as a vermin hunter, and tamed cats to protect their corn supplies"
   },
   {
-    "id": 213,
-    "fact": "The average cat food meal is the equivalent to about five mice",
-    "character_count": 62
+    "id": "ebd1da16-2808-11e8-a01a-73c84fadb97e",
+    "fact": "The average cat food meal is the equivalent to about five mice"
   },
   {
-    "id": 214,
-    "fact": "The average lifespan of an outdoor-only cat is about 3 to 5 years while an indoor-only cat can live 16 years or longer",
-    "character_count": 118
+    "id": "ebd1de08-2808-11e8-a01a-0fcb4533ff1c",
+    "fact":
+      "The average lifespan of an outdoor-only cat is about 3 to 5 years while an indoor-only cat can live 16 years or longer"
   },
   {
-    "id": 215,
-    "fact": "A cat's collarbone does not connect with other bones, but is buried in muscles of the shoulder region; they can fit through any opening the size of their head",
-    "character_count": 158
+    "id": "ebd1e2e0-2808-11e8-a01a-6fa8d8dada0f",
+    "fact":
+      "A cat's collarbone does not connect with other bones, but is buried in muscles of the shoulder region; they can fit through any opening the size of their head"
   },
   {
-    "id": 216,
-    "fact": "The cat's front paw has 5 toes and the back paws have 4. Cats born with 6 or 7 front toes and extra back toes are called polydactl",
-    "character_count": 130
+    "id": "ebd1e6dc-2808-11e8-a01a-0f520543a92e",
+    "fact":
+      "The cat's front paw has 5 toes and the back paws have 4. Cats born with 6 or 7 front toes and extra back toes are called polydactl"
   },
   {
-    "id": 217,
-    "fact": "The color of the points in Siamese cats is heat related. Cool areas are darker",
-    "character_count": 78
+    "id": "ebd1eaf6-2808-11e8-a01a-eb5d9e1de01b",
+    "fact":
+      "The color of the points in Siamese cats is heat related. Cool areas are darker"
   },
   {
-    "id": 218,
-    "fact": "The death rate for cats falling from a 2 to 6-story building is much higher than falling from a 7 to 32-story building",
-    "character_count": 118
+    "id": "ebd1eede-2808-11e8-a01a-a35e373fde12",
+    "fact":
+      "The death rate for cats falling from a 2 to 6-story building is much higher than falling from a 7 to 32-story building"
   },
   {
-    "id": 219,
-    "fact": "You can learn about your cat's present state of mind by observing the posture of its tail",
-    "character_count": 89
+    "id": "ebd1f2d0-2808-11e8-a01a-c39a71108f6b",
+    "fact":
+      "You can learn about your cat's present state of mind by observing the posture of its tail"
   },
   {
-    "id": 220,
-    "fact": "The first cat in space was French. She was named Felicette, or “Astrocat.” She survived the trip",
-    "character_count": 96
+    "id": "ebd1f6c2-2808-11e8-a01a-5f62878cfd78",
+    "fact":
+      "The first cat in space was French. She was named Felicette, or “Astrocat.” She survived the trip"
   },
   {
-    "id": 221,
-    "fact": "The first cat show was in 1871 at the Crystal Palace in London",
-    "character_count": 62
+    "id": "ebd1fad2-2808-11e8-a01a-5704d46519c0",
+    "fact": "The first cat show was in 1871 at the Crystal Palace in London"
   },
   {
-    "id": 222,
-    "fact": "The first cloned cat was called \u201cCC\u201d, short for \u201cCarbon Copy\u201d",
-    "character_count": 61
+    "id": "ebd1feb0-2808-11e8-a01a-530485f59e78",
+    "fact": "The first cloned cat was called “CC”, short for “Carbon Copy”"
   },
   {
-    "id": 223,
-    "fact": "The first true cats came into existence about 12 million years ago and were the Proailurus",
-    "character_count": 90
+    "id": "ebd202ca-2808-11e8-a01a-e73eae6e9805",
+    "fact":
+      "The first true cats came into existence about 12 million years ago and were the Proailurus"
   },
   {
-    "id": 224,
-    "fact": "The Guinness World Records stopped awarding the fattest cats or any other animal to discourage deliberate overfeeding",
-    "character_count": 117
+    "id": "ebd2081a-2808-11e8-a01a-bfa38d00bce7",
+    "fact":
+      "The Guinness World Records stopped awarding the fattest cats or any other animal to discourage deliberate overfeeding"
   },
   {
-    "id": 225,
-    "fact": "The heaviest domestic cat on record is 46 lb 15.2 oz (21.297 kilograms)",
-    "character_count": 71
+    "id": "ebd20c20-2808-11e8-a01a-ff0713d15b51",
+    "fact":
+      "The heaviest domestic cat on record is 46 lb 15.2 oz (21.297 kilograms)"
   },
   {
-    "id": 226,
-    "fact": "The largest litter of kittens produced 19 kittens",
-    "character_count": 49
+    "id": "ebd21008-2808-11e8-a01a-ff443b5aa7e5",
+    "fact": "The largest litter of kittens produced 19 kittens"
   },
   {
-    "id": 227,
-    "fact": "The life expectancy of cats has nearly doubled since 1930 - from 8 to 16 years",
-    "character_count": 78
+    "id": "ebd213fa-2808-11e8-a01a-47a0848e8cad",
+    "fact":
+      "The life expectancy of cats has nearly doubled since 1930 - from 8 to 16 years"
   },
   {
-    "id": 228,
-    "fact": "The Maine Coone is the only native American long haired breed",
-    "character_count": 61
+    "id": "ebd2180a-2808-11e8-a01a-cb291afac007",
+    "fact": "The Maine Coone is the only native American long haired breed"
   },
   {
-    "id": 229,
-    "fact": "The majority of the cats enjoyed being pet. Ones that don't allow it are likely stressed",
-    "character_count": 88
+    "id": "ebd21c24-2808-11e8-a01a-2bda9708c720",
+    "fact":
+      "The majority of the cats enjoyed being pet. Ones that don't allow it are likely stressed"
   },
   {
-    "id": 230,
-    "fact": "The name \u201cjaguar\u201d comes from a Native American word meaning \u201che who kills with one leap\u201d",
-    "character_count": 88
+    "id": "ebd22020-2808-11e8-a01a-87a6fe49dd17",
+    "fact":
+      "The name “jaguar” comes from a Native American word meaning “he who kills with one leap”"
   },
   {
-    "id": 231,
-    "fact": "The oldest cat video on YouTube dates back to 1894",
-    "character_count": 50
+    "id": "ebd22778-2808-11e8-a01a-373ad50b78bd",
+    "fact": "The oldest cat video on YouTube dates back to 1894"
   },
   {
-    "id": 232,
-    "fact": "The Pilgrims were the first to introduce cats to North America as pest controllers",
-    "character_count": 82
+    "id": "ebd22b9c-2808-11e8-a01a-b3e0c672ea63",
+    "fact":
+      "The Pilgrims were the first to introduce cats to North America as pest controllers"
   },
   {
-    "id": 233,
-    "fact": "The smallest breed of domestic cat is the Singapura or \u201cDrain Cat\u201d of Singapore. Adult females weigh in at an average of 4lbs",
-    "character_count": 125
+    "id": "ebd22f7a-2808-11e8-a01a-e3c56ed8ee72",
+    "fact":
+      "The smallest breed of domestic cat is the Singapura or “Drain Cat” of Singapore. Adult females weigh in at an average of 4lbs"
   },
   {
-    "id": 234,
-    "fact": "Leopards are the strongest climber among big cats, and can carry prey twice its weight up a tree",
-    "character_count": 96
+    "id": "ebd23376-2808-11e8-a01a-235a30452a37",
+    "fact":
+      "Leopards are the strongest climber among big cats, and can carry prey twice its weight up a tree"
   },
   {
-    "id": 235,
-    "fact": "The technical term for \u201chairball\u201d is \u201cbezoar\u201d",
-    "character_count": 45
+    "id": "ebd2377c-2808-11e8-a01a-c73afce19aaf",
+    "fact": "The technical term for “hairball” is “bezoar”"
   },
   {
-    "id": 236,
-    "fact": "The two outer layers of cat's hair are called, respectively, the guard hair and the awn hair",
-    "character_count": 92
+    "id": "ebd23bbe-2808-11e8-a01a-cfd0bc7801ef",
+    "fact":
+      "The two outer layers of cat's hair are called, respectively, the guard hair and the awn hair"
   },
   {
-    "id": 237,
-    "fact": "The way you treat kittens in the early stages of it's life will render it's personality traits later in life",
-    "character_count": 108
+    "id": "ebd23f9c-2808-11e8-a01a-2bcb617adbdb",
+    "fact":
+      "The way you treat kittens in the early stages of it's life will render it's personality traits later in life"
   },
   {
-    "id": 238,
-    "fact": "The world's smallest cat is called \u201cTinker Toy\u201d and he's just 2.75 inches (7 cm) tall",
-    "character_count": 85
+    "id": "ebd243ac-2808-11e8-a01a-d7902e90438a",
+    "fact":
+      "The world's smallest cat is called “Tinker Toy” and he's just 2.75 inches (7 cm) tall"
   },
   {
-    "id": 239,
-    "fact": "The world's largest cat measured 48.5 inches long",
-    "character_count": 49
+    "id": "ebd2478a-2808-11e8-a01a-e7cab919c0f3",
+    "fact": "The world's largest cat measured 48.5 inches long"
   },
   {
-    "id": 240,
-    "fact": "The world’s richest cat is worth $13 million after his human passed away and left her fortune to him",
-    "character_count": 100
+    "id": "ebd24b86-2808-11e8-a01a-d3b07cb731a0",
+    "fact":
+      "The world’s richest cat is worth $13 million after his human passed away and left her fortune to him"
   },
   {
-    "id": 241,
-    "fact": "There are 45 Hemingway cats living at the author's former home in Key West, Florida",
-    "character_count": 83
+    "id": "ebd24ff0-2808-11e8-a01a-4701ea230dcd",
+    "fact":
+      "There are 45 Hemingway cats living at the author's former home in Key West, Florida"
   },
   {
-    "id": 242,
-    "fact": "There are cats who have survived falls from over 32 stories (320 meters) onto concrete",
-    "character_count": 86
+    "id": "ebd253e2-2808-11e8-a01a-83c70890ee11",
+    "fact":
+      "There are cats who have survived falls from over 32 stories (320 meters) onto concrete"
   },
   {
-    "id": 243,
-    "fact": "There is a species of cat smaller than the average housecat. It is native to Africa and is called the Black-footed cat, with a max weight at 5.5 pounds",
-    "character_count": 151
+    "id": "ebd257e8-2808-11e8-a01a-13c0a42080e1",
+    "fact":
+      "There is a species of cat smaller than the average housecat. It is native to Africa and is called the Black-footed cat, with a max weight at 5.5 pounds"
   },
   {
-    "id": 244,
-    "fact": "There's a theater in Russia where all the actors are cats",
-    "character_count": 57
+    "id": "ebd25bc6-2808-11e8-a01a-e3f1bf7fa763",
+    "fact": "There's a theater in Russia where all the actors are cats"
   },
   {
-    "id": 245,
-    "fact": "Today there are about 100 distinct breeds of the domestic cat",
-    "character_count": 61
+    "id": "ebd25fc2-2808-11e8-a01a-a313d650abb3",
+    "fact": "Today there are about 100 distinct breeds of the domestic cat"
   },
   {
-    "id": 246,
-    "fact": "25% of cat owners use a blow drier on their cats after bathing",
-    "character_count": 62
+    "id": "ebd2649a-2808-11e8-a01a-23c8d9a17a73",
+    "fact": "25% of cat owners use a blow drier on their cats after bathing"
   },
   {
-    "id": 247,
-    "fact": "Unlike humans, cats do not need to blink their eyes on a regular basis to keep their eyes lubricated",
-    "character_count": 100
+    "id": "ebd268aa-2808-11e8-a01a-93a495f6be3d",
+    "fact":
+      "Unlike humans, cats do not need to blink their eyes on a regular basis to keep their eyes lubricated"
   },
   {
-    "id": 248,
-    "fact": "Unlike most other cats, the Turkish Van breed has a water-resistant coat and enjoys being in water",
-    "character_count": 98
+    "id": "ebd26c92-2808-11e8-a01a-070a71c5c03f",
+    "fact":
+      "Unlike most other cats, the Turkish Van breed has a water-resistant coat and enjoys being in water"
   },
   {
-    "id": 249,
-    "fact": "When a cats rubs up against you, the cat is marking you with it's scent claiming ownership",
-    "character_count": 90
+    "id": "ebd270c0-2808-11e8-a01a-f7ca54dcfb9e",
+    "fact":
+      "When a cats rubs up against you, the cat is marking you with it's scent claiming ownership"
   },
   {
-    "id": 250,
-    "fact": "When asked if her husband had any hobbies, Mary Todd Lincoln is said to have replied \"cats",
-    "character_count": 91
+    "id": "ebd274a8-2808-11e8-a01a-1f259639ad13",
+    "fact":
+      "When asked if her husband had any hobbies, Mary Todd Lincoln is said to have replied \"cats"
   },
   {
-    "id": 251,
-    "fact": "When cats grimace, they are usually \u201ctaste-scenting.\u201d They have an extra organ that, with some breathing control, allows the cats to taste-sense the air",
-    "character_count": 152
+    "id": "ebd278ae-2808-11e8-a01a-038cfb3186d2",
+    "fact":
+      "When cats grimace, they are usually “taste-scenting.” They have an extra organ that, with some breathing control, allows the cats to taste-sense the air"
   },
   {
-    "id": 252,
-    "fact": "When cats leave their poop uncovered, it is a sign of aggression to let you know they don’t fear you",
-    "character_count": 100
+    "id": "ebd27cb4-2808-11e8-a01a-731e2a0f17a3",
+    "fact":
+      "When cats leave their poop uncovered, it is a sign of aggression to let you know they don’t fear you"
   },
   {
-    "id": 253,
-    "fact": "When well treated, a cat can live twenty or more years but the average life span of a domestic cat is 14 years",
-    "character_count": 110
+    "id": "ebd280a6-2808-11e8-a01a-d7817f028a7c",
+    "fact":
+      "When well treated, a cat can live twenty or more years but the average life span of a domestic cat is 14 years"
   },
   {
-    "id": 254,
-    "fact": "When your cat brings home a dead mouse or bird, it may do so to show you that you are inferior at hunting",
-    "character_count": 105
+    "id": "ebd2848e-2808-11e8-a01a-578ca71684dd",
+    "fact":
+      "When your cat brings home a dead mouse or bird, it may do so to show you that you are inferior at hunting"
   },
   {
-    "id": 255,
-    "fact": "You check your cats pulse on the inside of the back thigh, where the leg joins to the body. Normal heart rate for cats is 110-170 beats per minute",
-    "character_count": 146
+    "id": "ebd288a8-2808-11e8-a01a-bf7c739239c6",
+    "fact":
+      "You check your cats pulse on the inside of the back thigh, where the leg joins to the body. Normal heart rate for cats is 110-170 beats per minute"
   },
   {
-    "id": 256,
-    "fact": "Your cat recognizes your voice but just acts too cool to care (probably because they are)",
-    "character_count": 89
+    "id": "ebd28cae-2808-11e8-a01a-9baacc1919ea",
+    "fact":
+      "Your cat recognizes your voice but just acts too cool to care (probably because they are)"
   },
   {
-    "id": 257,
-    "fact": "Cats are scared of snails",
-    "character_count": 25
+    "id": "ebd2908c-2808-11e8-a01a-2f5658627523",
+    "fact": "Cats are scared of snails"
   },
   {
-    "id": 258,
-    "fact": "Cats can drink seawater",
-    "character_count": 23
+    "id": "ebd29488-2808-11e8-a01a-d396451ba2f6",
+    "fact": "Cats can drink seawater"
   },
   {
-    "id": 259,
-    "fact": "Some cats have thumbs",
-    "character_count": 21
+    "id": "ebd29870-2808-11e8-a01a-2f36262b6d30",
+    "fact": "Some cats have thumbs"
   },
   {
-    "id": 260,
-    "fact": "The furry tufts on the inside of cats’ ears are called \u201cear furnishings\u201d",
-    "character_count": 72
+    "id": "ebd29c6c-2808-11e8-a01a-636a0916e875",
+    "fact":
+      "The furry tufts on the inside of cats’ ears are called “ear furnishings”"
   },
   {
-    "id": 261,
-    "fact": "Cats can’t see directly below their noses",
-    "character_count": 41
+    "id": "ebd2a04a-2808-11e8-a01a-279a3bf7b7bb",
+    "fact": "Cats can’t see directly below their noses"
   },
   {
-    "id": 262,
-    "fact": "Nikola Tesla was inspired to investigate electricity after his cat, Macak, gave him a static shock",
-    "character_count": 98
+    "id": "ebd2a446-2808-11e8-a01a-434e0f4c90f0",
+    "fact":
+      "Nikola Tesla was inspired to investigate electricity after his cat, Macak, gave him a static shock"
   },
   {
-    "id": 263,
-    "fact": "Kittens sleep a lot because their bodies release a growth hormone only when they’re asleep",
-    "character_count": 90
+    "id": "ebd2a874-2808-11e8-a01a-4b594e2a6b9c",
+    "fact":
+      "Kittens sleep a lot because their bodies release a growth hormone only when they’re asleep"
   },
   {
-    "id": 264,
-    "fact": "Cats have a third eyelid called a \u201chaw\u201d. It’s generally only visible when they’re unwell",
-    "character_count": 88
+    "id": "ebd2ac98-2808-11e8-a01a-2776f23b417b",
+    "fact":
+      "Cats have a third eyelid called a “haw”. It’s generally only visible when they’re unwell"
   },
   {
-    "id": 265,
-    "fact": "In the original Italian version of Cinderella, the benevolent fairy godmother figure was a cat",
-    "character_count": 94
+    "id": "ebd2b076-2808-11e8-a01a-aba01eaf4b0f",
+    "fact":
+      "In the original Italian version of Cinderella, the benevolent fairy godmother figure was a cat"
   },
   {
-    "id": 266,
-    "fact": "Cats can find their way home through \u201cpsi-travelling\u201d. Experts think they navigate via the angle of sunlight, or magnetised brain cells that act like compasses",
-    "character_count": 159
+    "id": "ebd2b468-2808-11e8-a01a-6f601b6fb730",
+    "fact":
+      "Cats can find their way home through “psi-travelling”. Experts think they navigate via the angle of sunlight, or magnetised brain cells that act like compasses"
   },
   {
-    "id": 267,
-    "fact": "The more you talk to your cat, the more it will talk to you",
-    "character_count": 59
+    "id": "ebd2b88c-2808-11e8-a01a-0b2b61664ff2",
+    "fact": "The more you talk to your cat, the more it will talk to you"
   },
   {
-    "id": 268,
-    "fact": "Cats aren’t the only animals that purr; squirrels, lemurs, elephants, and even gorillas purr too",
-    "character_count": 96
+    "id": "ebd2bc88-2808-11e8-a01a-9be2356356f3",
+    "fact":
+      "Cats aren’t the only animals that purr; squirrels, lemurs, elephants, and even gorillas purr too"
   },
   {
-    "id": 269,
-    "fact": "If your cat’s tail is vibrating, it's excited to see you",
-    "character_count": 56
+    "id": "ebd2c19c-2808-11e8-a01a-9b6f259a7325",
+    "fact": "If your cat’s tail is vibrating, it's excited to see you"
   },
   {
-    "id": 270,
-    "fact": "According to a Cornell University study, between 65 to 85 percent of white cats that have blue eyes are hearing impaired",
-    "character_count": 120
+    "id": "ebd2c5b6-2808-11e8-a01a-6f87a4c46dc4",
+    "fact":
+      "According to a Cornell University study, between 65 to 85 percent of white cats that have blue eyes are hearing impaired"
   },
   {
-    "id": 271,
-    "fact": "It is unknown how cats purr. Scientists know it involves the larynx and diaphragm muscles but they're not sure exactly how those muscles work together",
-    "character_count": 151
+    "id": "ebd2c9bc-2808-11e8-a01a-8f982b0f1f5c",
+    "fact":
+      "It is unknown how cats purr. Scientists know it involves the larynx and diaphragm muscles but they're not sure exactly how those muscles work together"
   },
   {
-    "id": 272,
-    "fact": "A dying body gives off a scent that cats are particularly sensitive to",
-    "character_count": 70
+    "id": "ebd2cdae-2808-11e8-a01a-03322cf02fca",
+    "fact":
+      "A dying body gives off a scent that cats are particularly sensitive to"
   },
   {
-    "id": 273,
-    "fact": "In 1837, Belgium hired 37 cats as mail carriers. Not surprisingly, it did not work",
-    "character_count": 82
+    "id": "ebd2d1a0-2808-11e8-a01a-6f32e39a0753",
+    "fact":
+      "In 1837, Belgium hired 37 cats as mail carriers. Not surprisingly, it did not work"
   },
   {
-    "id": 274,
-    "fact": "Cats like olives because olives have a similar chemical compound in them to catnip",
-    "character_count": 82
+    "id": "ebd2d57e-2808-11e8-a01a-37ec8a50385d",
+    "fact":
+      "Cats like olives because olives have a similar chemical compound in them to catnip"
   },
   {
-    "id": 275,
-    "fact": "Nicolas Cage's cat once accidentally ate a bunch of the actor's hallucinogenic mushrooms, so Cage decided the two would trip together",
-    "character_count": 133
+    "id": "ebd2d984-2808-11e8-a01a-5fe2d7a95053",
+    "fact":
+      "Nicolas Cage's cat once accidentally ate a bunch of the actor's hallucinogenic mushrooms, so Cage decided the two would trip together"
   },
   {
-    "id": 276,
-    "fact": "Calico cats are nearly always female",
-    "character_count": 36
+    "id": "ebd2de7a-2808-11e8-a01a-eb5b22fbd555",
+    "fact": "Calico cats are nearly always female"
   },
   {
-    "id": 277,
-    "fact": "Orange cats are usually male",
-    "character_count": 28
+    "id": "ebd2e276-2808-11e8-a01a-9f69d2e47058",
+    "fact": "Orange cats are usually male"
   },
   {
-    "id": 278,
-    "fact": "Cats aren't exactly nocturnal. They're considered \u201ccrepuscular\u201d, so they typically have a schedule where they're most active at the same dawn and dusk hours",
-    "character_count": 156
+    "id": "ebd2e654-2808-11e8-a01a-1327ee23ceda",
+    "fact":
+      "Cats aren't exactly nocturnal. They're considered “crepuscular”, so they typically have a schedule where they're most active at the same dawn and dusk hours"
   },
   {
-    "id": 279,
-    "fact": "Cats kill around 2.4 million birds a year",
-    "character_count": 41
+    "id": "ebd2ea5a-2808-11e8-a01a-8fd2e60c5afd",
+    "fact": "Cats kill around 2.4 million birds a year"
   }
 ]
