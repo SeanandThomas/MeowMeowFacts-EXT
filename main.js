@@ -15,7 +15,7 @@ _gaq.push(["_trackPageview"]);
 })();
 
 var background_colors = ["#E24223", "#2B2B77", "#D3B298"];
-var cat_num = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+var cat_num = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17];
 var kitty, bgc;
 bgc = background_colors[
   Math.floor(Math.random() * background_colors.length)
@@ -97,13 +97,13 @@ chrome.storage.sync.get(
         "href",
         `https://www.facebook.com/sharer/sharer.php?u=http%3A//www.meowmeowfacts.com/cat_fact/${
           new_cat_fact.id
-        }?k=${kitty}&bgc=${bgc}`
+        }?k=${kitty}%26bgc=${bgc}`
       );
       $(`#twitter_share`).attr(
         "href",
         `https://twitter.com/home?status=http%3A//www.meowmeowfacts.com/cat_fact/${
           new_cat_fact.id
-        }?k=${kitty}&bgc=${bgc}`
+        }?k=${kitty}%26bgc=${bgc}`
       );
       $(`#copylink`).text(
         `http://www.meowmeowfacts.com/cat_fact/${
