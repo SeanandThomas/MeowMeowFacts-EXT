@@ -39,8 +39,8 @@ body {
 }
 
 .kitty img {
-  width: 200px;
-  height: auto;
+  width: auto;
+  height: 200px;
 }
 
 .aligner-item {
