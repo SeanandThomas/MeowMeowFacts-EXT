@@ -14,30 +14,9 @@ _gaq.push(["_trackPageview"]);
   s.parentNode.insertBefore(ga, s);
 })();
 
+//_gaq.push(["_trackEvent", "new_fact", "true"]);
+
 var background_colors = ["#E24223", "#2B2B77", "#D3B298"];
-var cat_num = [
-  0,
-  1,
-  2,
-  3,
-  4,
-  5,
-  6,
-  7,
-  8,
-  9,
-  10,
-  11,
-  12,
-  13,
-  14,
-  15,
-  16,
-  17,
-  18,
-  19,
-  20
-];
 var kitty, bgc;
 bgc = background_colors[
   Math.floor(Math.random() * background_colors.length)
@@ -58,6 +37,16 @@ $(document).ready(function() {
     }, 1200);
   });
 
+  /*   $(`#facebook_share`).click(function() {
+    _gaq.push(["_trackEvent", "facebook_share", "true"]);
+  });
+  $(`#twitter_share`).click(function() {
+    _gaq.push(["_trackEvent", "twitter_share", "true"]);
+  });
+  $(`button`).click(function() {
+    _gaq.push(["_trackEvent", "link_share", "true"]);
+  }); */
+
   /*   $(`.close`).click(function () {
     $(`.iframe_goodies`).removeClass(`load`);
     $(`.close`).removeClass(`load`);
@@ -66,11 +55,22 @@ $(document).ready(function() {
 
 chrome.storage.sync.get(
   {
-    seen_cat_facts: init
+    seen_cat_facts: init,
+    ga_install_event: init
   },
   function(data) {
     // We are getting the array IDs of cat_facts_seen, if they exist
     var seen_cat_facts = data.seen_cat_facts;
+    var ga_install_event = data.ga_install_event;
+    console.log(ga_install_event);
+
+    if (ga_install_event.length === 0) {
+      console.log(`this is inside`);
+      _gaq.push(["_trackEvent", "extension_installed", "true"]);
+      seen_cat_facts = init; // also reset the cat facts, this takes care of legacy people
+    } else {
+      console.log(`already logged ga event`);
+    }
 
     // console.log(`You've seen ${seen_cat_facts.length} cat facts`);
 
@@ -90,9 +90,11 @@ chrome.storage.sync.get(
       var unseen_cat_facts = [];
 
       // Filter out the cat_facts_seen from all_cat_facts UNLESS no more cat facts are left, then restart
-      if (seen_cat_facts.length === all_cat_facts.length) {
+      // ALSO, if there are more seen cat facts, then reset
+      if (seen_cat_facts.length >= all_cat_facts.length) {
         unseen_cat_facts = all_cat_facts;
         seen_cat_facts = init;
+        //_gaq.push(["_trackEvent", "user_cycle_complete", "true"]);
       } else {
         all_cat_facts.forEach(function(e) {
           if (!seen_cat_facts.some(s => s.id == e.id)) {
@@ -107,7 +109,7 @@ chrome.storage.sync.get(
       if (new_cat_fact.kitty) {
         kitty = new_cat_fact.kitty;
       } else {
-        kitty = cat_num[Math.floor(Math.random() * cat_num.length)];
+        kitty = Math.floor(Math.random() * 20);
       }
 
       $(`.kitty img`).attr(`src`, `/cats/cat${kitty}.png`);
@@ -140,7 +142,8 @@ chrome.storage.sync.get(
       // add the new_cat_fact to the array of seen_cat_facts
       chrome.storage.sync.set(
         {
-          seen_cat_facts: seen_cat_facts
+          seen_cat_facts: seen_cat_facts,
+          ga_install_event: true
         },
         function() {
           // console.log('Successfully added the new_cat_fact');
