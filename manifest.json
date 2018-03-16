@@ -3,7 +3,7 @@
 
   "name": "MeowMeowFacts",
   "description": "A fun cat fact with every new tab :)",
-  "version": "1.0",
+  "version": "1.1",
 
   "chrome_url_overrides": {
     "newtab": "index.html"
