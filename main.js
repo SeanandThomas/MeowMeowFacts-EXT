@@ -14,7 +14,7 @@ _gaq.push(["_trackPageview"]);
   s.parentNode.insertBefore(ga, s);
 })();
 
-//_gaq.push(["_trackEvent", "new_fact", "true"]);
+_gaq.push(["_trackEvent", "new_fact", "true"]);
 
 var background_colors = ["#E24223", "#2B2B77", "#D3B298"];
 var kitty, bgc;
@@ -37,7 +37,7 @@ $(document).ready(function() {
     }, 1200);
   });
 
-  /*   $(`#facebook_share`).click(function() {
+  $(`#facebook_share`).click(function() {
     _gaq.push(["_trackEvent", "facebook_share", "true"]);
   });
   $(`#twitter_share`).click(function() {
@@ -45,7 +45,7 @@ $(document).ready(function() {
   });
   $(`button`).click(function() {
     _gaq.push(["_trackEvent", "link_share", "true"]);
-  }); */
+  });
 
   /*   $(`.close`).click(function () {
     $(`.iframe_goodies`).removeClass(`load`);
@@ -66,7 +66,7 @@ chrome.storage.sync.get(
 
     if (ga_install_event.length === 0) {
       console.log(`this is inside`);
-      //_gaq.push(["_trackEvent", "extension_installed", "true"]);
+      _gaq.push(["_trackEvent", "extension_installed", "true"]);
       seen_cat_facts = init; // also reset the cat facts, this takes care of legacy people
     } else {
       console.log(`already logged ga event`);
@@ -89,12 +89,11 @@ chrome.storage.sync.get(
     $.getJSON(`cat_facts.json`, function(all_cat_facts) {
       var unseen_cat_facts = [];
 
-      // Filter out the cat_facts_seen from all_cat_facts UNLESS no more cat facts are left, then restart
-      // ALSO, if there are more seen cat facts, then reset
+      // Filter out the cat_facts_seen from all_cat_facts UNLESS no more cat facts are left, then restart. ALSO, if there are more seen cat facts, then reset
       if (seen_cat_facts.length >= all_cat_facts.length) {
         unseen_cat_facts = all_cat_facts;
         seen_cat_facts = init;
-        //_gaq.push(["_trackEvent", "user_cycle_complete", "true"]);
+        _gaq.push(["_trackEvent", "user_cycle_complete", "true"]);
       } else {
         all_cat_facts.forEach(function(e) {
           if (!seen_cat_facts.some(s => s.id == e.id)) {
