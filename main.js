@@ -66,7 +66,7 @@ chrome.storage.sync.get(
 
     if (ga_install_event.length === 0) {
       console.log(`this is inside`);
-      _gaq.push(["_trackEvent", "extension_installed", "true"]);
+      //_gaq.push(["_trackEvent", "extension_installed", "true"]);
       seen_cat_facts = init; // also reset the cat facts, this takes care of legacy people
     } else {
       console.log(`already logged ga event`);
