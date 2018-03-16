@@ -12,8 +12,6 @@
   "content_security_policy":
     "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
   "icons": {
-    "16": "cat_icon16.png",
-    "48": "cat_icon48.png",
     "128": "cat_icon128.png"
   }
 }
